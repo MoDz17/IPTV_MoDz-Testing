@@ -1,0 +1,120 @@
+{
+	"name": "IPT-Adictos [TESTING]",
+    "author": "MoDz",
+    "image": "https://i.ibb.co/wNTM4Nq/Oficial-Logo-testing.png",
+    "info": "IPTV oficial de FUTBOL-ADICTOS",
+    "telegram": "+GLnUVPEyXiU5Y2U0",
+    "url": "https://raw.githubusercontent.com/MoDz17/Testing_IPTV/main/master_testing?token=GHSAT0AAAAAAB4YY72NB3HTFEODM2SH5UWEY5KCS7A",
+    "groups": [{
+             "name": "FUTBOL-ADICTOS",
+            "image": "https://i.ibb.co/stSWhMQ/Logo-IPTV-oficial-testing.png",
+            "info": "",
+	    "stations": [{
+			"name": "Grupo Oficial",
+		   "image": "https://i.ibb.co/BP80Qsx/main-pic.png",    
+		  "url" : "https://t.me/+GLnUVPEyXiU5Y2U0",
+		  "embed": "true"},
+		  {
+			"name": "Grupo Soporte",
+		   "image": "https://i.ibb.co/rM35rw9/jugones-pic.png",    
+		  "url" : "https://t.me/+GLnUVPEyXiU5Y2U0",
+		  "embed": "true"}]
+	}, 
+	
+	{
+             "name": "Ultm. versión --/--/2023",
+            "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
+            "info": "última versión actualizada el --/--/2023"
+	}, {
+			"name": "TESTING CHANNELS",
+			"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
+			"info": "",
+			"stations": [{
+		"name": "Testing bTV",
+		"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
+		"url": "https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8",
+             	"userAgent": ""
+	}, {
+		"name": "Testing logo",
+		"image": "https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Youtube_svg-512.png",
+		"url": "http://nbr1.co:8000/giancarlo/giancarlo/30015",
+             	"userAgent": "true"
+	}, {
+		"name": "Testing logo",
+		"image": "https://seeklogo.com/images/Y/youtube-play-black-logo-E6E4CD69C6-seeklogo.com.png",
+		"url": "http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/509.ts",
+             	"userAgent": ""
+	}, {
+		"name": "[VK MAX] F1 Testing",
+		"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
+		"url": "https://vk.com/video739310848_456239018",
+		"embed": "true"
+	}, {
+		"name": "[VK] UFC1 Testing",
+		"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
+		"url": "https://vk.com/video739310848_456239019",
+             	"embed": "true"
+	}, {
+		"name": "[VK] UFC2 Testing",
+		"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
+		"url": "https://vk.com/video739310848_456239020",
+             	"embed": "true"
+	},
+	{
+                "name": "#0 1",
+                "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcc-umbraco-images.s3.amazonaws.com%2FEurope%2FSpain%2Fcero-logo3-300.jpg&f=1&nofb=1",
+                "url" : "https://deliriousholistic.net/embed/0y1shkg6kt9mm0",
+                "referer" : "https://verlatelevision.com/",
+                "desktop": "true",
+                "online":"true",
+			    "ishost":"true"   
+                  
+          }, {
+                "name": "#0 2",
+                "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcc-umbraco-images.s3.amazonaws.com%2FEurope%2FSpain%2Fcero-logo3-300.jpg&f=1&nofb=1",
+                "url" : "https://deliriousholistic.net/embed/0y1shkg6kt9mm0",
+                "referer" : "https://verlatelevision.com/",
+			    "ishost":"true"   
+                  
+          }, {
+                "name": "#0 3",
+                "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcc-umbraco-images.s3.amazonaws.com%2FEurope%2FSpain%2Fcero-logo3-300.jpg&f=1&nofb=1",
+                "url" : "https://deliriousholistic.net/embed/0y1shkg6kt9mm0",
+			    "ishost":"true"   
+                  
+          },
+          
+          
+          {
+                "name": "ACCION *",
+                "image": "https://static.wikia.nocookie.net/logopedia/images/a/ae/Canal%2B_Acci%C3%B3n.svg/revision/latest/scale-to-width-down/714?cb=20100604113249",
+                "url": "http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117232",
+                "online":"true"
+                  
+          },
+            
+          {
+                "name": "ESTRENOS *",
+                "image": "https://www.adslzone.net/app/uploads-adslzone.net/2017/04/movistar-estrenos-juego-de-tronos-verano-715x374.jpg",
+                "url": "http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117241",
+                "isHost":"",
+                "online":"true"
+                  
+          },
+         
+          {
+                "name": "ESTRENOS 2 *",
+                "image": "https://www.adslzone.net/app/uploads-adslzone.net/2017/04/movistar-estrenos-juego-de-tronos-verano-715x374.jpg",
+                "url": "http://653415542109321335.nicesjb.xyz:80/play/4BQNUACJNS/6010766685/321335.ts",
+		"userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
+                "online":"true"
+          },
+           {
+                "name": "DARK *",
+                "image": "https://s03.s3c.es/imag/_v0/770x420/d/2/f/dark.jpg",
+                "url": "http://94.158.219.85:8081/channel/n457fb186/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.y1Ubsu9jmzophdGjATa9tpy7Lwu89ZvlFBjw4Urdy8xwjeVmPLFWo6H0_H7WHjK-ks-W5x32XD_u5Ji0WbOs9A",
+                 "online":"true"
+                  
+          }]
+		}]
+}
