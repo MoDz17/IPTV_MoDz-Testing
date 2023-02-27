@@ -10,23 +10,28 @@
             "image": "https://i.ibb.co/stSWhMQ/Logo-IPTV-oficial-testing.png",
             "info": "",
 	    "stations": [{
-			"name": "Grupo Oficial",
-		   "image": "https://i.ibb.co/BP80Qsx/main-pic.png",    
-		  "url" : "https://t.me/+GLnUVPEyXiU5Y2U0",
+			"name": "@FutbolAdictosHD",
+		   "image": "https://i.ibb.co/8MFrqt3/Twitter-logo.webp",    
+		  "url" : "https://twitter.com/futboladictoshd",
 		  "embed": "true"},
 		  {
 			"name": "Grupo Soporte",
-		   "image": "https://i.ibb.co/rM35rw9/jugones-pic.png",    
-		  "url" : "https://t.me/+GLnUVPEyXiU5Y2U0",
+		   "image": "https://i.ibb.co/rc9ds7x/jugones-pic-discord.png",    
+		  "url" : "https://discord.gg/phVVJFSR4t",
+		  "embed": "true"}, 
+		  {
+			"name": "@futboladictohd",
+		   "image": "https://i.ibb.co/xYLFH0F/Insta-logo.png",    
+		  "url" : "https://instagram.com/futboladictohd",
 		  "embed": "true"}]
 	}, 
 	
 	{
-             "name": "Ultm. versión 20/--/2023",
+             "name": "Ultm. versión 27/--/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
             "info": "última versión actualizada el 20/--/2023"
 	}, {
-			"name": "TESTING CHANNELS",
+			"name": "TESTING 20/02",
 			"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
 			"info": "",
 			"stations": [{
@@ -214,5 +219,71 @@
 	   	"url":"https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8",
 	   	"userAgent" : ""
 	 }]
-		}]
+		}, {
+			"name": "TESTING 27/02",
+		   "image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
+		   "info": "",
+	   "stations": [
+		{
+			"name": "DAZN F1",
+			"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+			"url":"http://51.158.36.81:18000/DAZN_F1/hls/playlist.m3u8",
+			"userAgent" : ""
+		 }, {
+			"name": "DAZN1",
+			   "image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
+			   "url":"http://51.158.36.81:18000/DAZN_1/hls/playlist.m3u8",
+			   "userAgent" : ""
+		 }, {
+			"name": "DAZN2",
+			   "image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
+			   "url":"http://51.158.36.81:18000/DAZN_2/hls/playlist.m3u8",
+			   "userAgent" : ""
+		 }, {
+			"name": "DAZN3",
+			   "image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
+			   "url":"http://51.158.36.81:18000/DAZN_3/hls/playlist.m3u8",
+			   "userAgent" : ""
+		 }, {
+			"name": "DAZN4",
+			   "image": "https://i.ibb.co/LQy2rM6/DAZN-4-Logo-Sin-Fondo.png",
+			   "url":"http://51.158.36.81:18000/DAZN_4/hls/playlist.m3u8",
+			   "userAgent" : ""
+		 }, {
+			"name": "SPORT TV 6",
+			"image": "https://uploads-eu-west-1.insided.com/meo-pt/attachment/f3f8b257-7ff1-453e-9e97-6dfec9118d9f_thumb.png",
+			"url":"http://213.13.16.138/shls/LIVE%24SPORTTV6_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END",
+			"userAgent" : ""
+		 }, {
+			"name": "Padel [Android]",
+			"image": "https://cd1.taquilla.com/data/images/t/35/world-padel-tour.jpg",
+			"url":"https://laligatech-live-usp.akamaized.net:443/live/wpt01/wpt01.isml/hdntl=exp=1677414350~acl=%2F*~data=hdntl~hmac=50963ccc03ac209fc5f83400c56c282b9b53d14c35c7cd923ee8c020ec6f2696/wpt01-audio_track_0_0_spa=96000-video_track=2500000.m3u8",
+			"userAgent" : ""
+		 }, {
+			"name": "M. Liga",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png",
+			"url":"http://51.158.36.81:18000/M_LaLiga/hls/playlist.m3u8",
+			"userAgent" : ""
+		 }, {
+			"name": "M. Vamos",
+			"image": "https://i.ibb.co/CvrpGn2/vamos.gif",
+			"url":"http://51.158.36.81:18000/M_Vamos/hls/playlist.m3u8",
+			"userAgent" : ""
+		 }, {
+			"name": "M. Deportes",
+			"image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
+			"url":"http://51.158.36.81:18000/M_Deportes/hls/playlist.m3u8",
+			"userAgent" : ""
+		 }, {
+			"name": "M. Golf",
+			"image": "https://i.ibb.co/sVPN8q6/logo-golf.png",
+			"url":"http://51.158.36.81:18000/M_Golf/hls/playlist.m3u8",
+			"userAgent" : ""
+		 }]
+   }, {
+		"name": "TESTING soon...",
+   		"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
+   		"info": "",
+		"stations": [{}]
+	}]
 }
