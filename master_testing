@@ -275,6 +275,11 @@
 			"url":"http://51.158.36.81:18000/M_Deportes/hls/playlist.m3u8",
 			"userAgent" : ""
 		 }, {
+			"name": "M. Deportes",
+			"image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
+		 	"url": "https://watchtvchh.xyz/channel/ch016098.php",
+			"isHost": "true"
+	  	}, {
 			"name": "M. Deportes 2",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/1280px-Movistar_Deportes_2.svg.png",
 		 	"url": "https://watchtvchh.xyz/channel/ch017001.php",
