@@ -27,7 +27,7 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 27/--/2023",
+             "name": "Ultm. versión 01/--/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
             "info": "última versión actualizada el 01/--/2023"
 	}, {
@@ -312,7 +312,7 @@
 			"userAgent" : ""
 		 }, {
 			"name": "Toros 2.1",
-			"image": "https://elcorreoweb.es/binrepository/221027-aprende-de-toros-1_20938522_20221027124217.jpg",
+			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe1Hb_2hzPBE_9l3bVg3PxT-tlC9EzjeGm9Q9Q4Vzwis12TaZ9QDUNDa4IyZL-E6Y3uMI&usqp=CAU",
 			"url":"https://media1.ultrik.com/live/torole1.m3u8",
 			"userAgent" : ""
 		 }, {
