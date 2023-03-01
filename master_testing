@@ -29,7 +29,7 @@
 	{
              "name": "Ultm. versión 27/--/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 20/--/2023"
+            "info": "última versión actualizada el 01/--/2023"
 	}, {
 			"name": "TESTING 20/02",
 			"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
@@ -291,6 +291,62 @@
 			"userAgent" : ""
 		 }]
    }, {
+		"name": "TESTING 01/03",
+   		"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
+   		"info": "",
+		"stations": [
+		{
+			"name": " A punt",
+			"image": "https://i.ibb.co/105c5Rn/logo-a-Punt.png",
+			"url":"https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/profile_0/chunklist_dvr.m3u8",
+			"userAgent" : ""
+		 }, {
+			"name": "Toros 1",
+			"image": "https://i.ibb.co/dprVzWm/logo-toro.png",
+			"url":"https://streaming012.gestec-video.com/hls/eltoro_bal.m3u8",
+			"userAgent" : ""
+		 }, {
+			"name": "Toros 2",
+			"image": "https://elcorreoweb.es/binrepository/676x450/0c50/675d400/none/10703/VSET/221027-aprende-de-toros-1_20938522_20221027124217.jpg",
+			"url":"https://media1.ultrik.com/live/torole1.m3u8?variant=0",
+			"userAgent" : ""
+		 }, {
+			"name": "Toros 2.1",
+			"image": "https://elcorreoweb.es/binrepository/221027-aprende-de-toros-1_20938522_20221027124217.jpg",
+			"url":"https://media1.ultrik.com/live/torole1.m3u8",
+			"userAgent" : ""
+		 }, {
+			"name": "La Otra",
+			"image": "https://i.ibb.co/hKbFJvp/logo-la-Otra.png",
+			"url":"https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/bitrate_1.m3u8",
+			"userAgent" : ""
+		 }, {
+			"name": "Gol Play",
+			"image": "https://i.ibb.co/4ZhrbdF/Gol-Play-logo.png",
+			"url":"https://piratilla2.xyz/306803/hls/gol.m3u8",
+			"userAgent" : ""
+		 }]
+	}, {
+		"name": "TESTING soon...",
+   		"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
+   		"info": "",
+		"stations": [{}]
+	}, {
+		"name": "TESTING soon...",
+   		"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
+   		"info": "",
+		"stations": [{}]
+	}, {
+		"name": "TESTING soon...",
+   		"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
+   		"info": "",
+		"stations": [{}]
+	}, {
+		"name": "TESTING soon...",
+   		"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
+   		"info": "",
+		"stations": [{}]
+	}, {
 		"name": "TESTING soon...",
    		"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
    		"info": "",
