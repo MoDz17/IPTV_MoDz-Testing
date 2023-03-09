@@ -27,9 +27,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 08/--/2023",
+             "name": "Ultm. versión 09/--/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 08/--/2023"
+            "info": "última versión actualizada el 09/--/2023"
 	}, {
 			"name": "TESTING 20/02",
 			"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
@@ -358,10 +358,67 @@
 			"userAgent" : ""
 		 }]
 	}, {
-		"name": "TESTING soon...",
+		"name": "TESTING 09/03",
    		"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
    		"info": "",
-		"stations": [{}]
+		"stations": [
+		{
+			"name": "Logo 1",
+			"image": "https://notify.com.ar/wp-content/uploads/2022/10/f.elconfidencial.com_original_000_7a9_9be_0007a99be8c5283e3edc30a082c22774.jpg",
+			"url":"",
+			"userAgent" : ""
+		 }, {
+			"name": "Logo 2",
+			"image": "https://www.larepublica.net/storage/images/2020/04/27/20200427150504.cine.jpg?width=1200&enable=upscale",
+			"url":"",
+			"userAgent" : ""
+		 }, {
+			"name": "Estrenos",
+			"image": "https://i.ibb.co/VJP28P9/logo-M-estrenos.png",
+			"url":"http://51.158.36.81:18000/M_Estrenos/hls/playlist.m3u8",
+			"userAgent" : ""
+		 }, {
+			"name": "Estrenos 2",
+			"image": "https://i.ibb.co/LCHP17k/logo-M-estrenos2.png",
+			"url":"http://51.158.36.81:18000/M_Estrenos_2/hls/playlist.m3u8",
+			"userAgent" : ""
+		 }, {
+			"name": "Series",
+			"image": "https://i.ibb.co/gZ5hBbs/logo-M-series.png",
+			"url":"http://51.158.36.81:18000/M_Series/hls/playlist.m3u8",
+			"userAgent" : ""
+		 }, {
+			"name": "Series 2",
+			"image": "https://i.ibb.co/RSbyc6L/logo-M-series2.png",
+			"url":"http://51.158.36.81:18000/M_Series_2/hls/playlist.m3u8",
+			"userAgent" : ""
+		 }, {
+			"name": "Acción",
+			"image": "https://i.ibb.co/3k7DDJ3/logo-M-accion.png",
+			"url":"http://51.158.36.81:18000/M_Acci%C3%B3n/hls/playlist.m3u8",
+			"userAgent" : ""
+		 }, {
+			"name": "Clásicos",
+			"image": "https://i.ibb.co/SX3RHSb/logo-M-clasicos.png",
+			"url":"http://51.158.36.81:18000/M_Cl%C3%A1sicos/hls/playlist.m3u8",
+			"userAgent" : ""
+		 }, {
+			"name": "Comedia",
+			"image": "https://i.ibb.co/cc7BTGS/logo-M-comedia.png",
+			"url":"http://51.158.36.81:18000/M_Comedia/hls/playlist.m3u8",
+			"userAgent" : ""
+		 }, {
+			"name": "Drama",
+			"image": "https://i.ibb.co/G5vPT4p/logo-M-drama.webp",
+			"url":"http://51.158.36.81:18000/M_Drama/hls/playlist.m3u8",
+			"userAgent" : ""
+		 }, {
+			"name": "Fest",
+			"image": "https://i.ibb.co/0KhDfH0/logo-M-fest.png",
+			"url":"http://51.158.36.81:18000/M_Fest/hls/playlist.m3u8",
+			"userAgent" : ""
+		 }
+		]
 	}, {
 		"name": "TESTING soon...",
    		"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
