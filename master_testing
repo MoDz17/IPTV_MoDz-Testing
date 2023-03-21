@@ -27,9 +27,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 09/--/2023",
+             "name": "Ultm. versión 21/--/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 09/--/2023"
+            "info": "última versión actualizada el 21/--/2023"
 	}, {
 			"name": "TESTING 20/02",
 			"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
@@ -429,6 +429,10 @@
 		   	"image": "https://i.ibb.co/njPF3vb/Stream-Pic-Pro.png",    
 		  	"url" : "http://futbolgratisbymodz.rf.gd/",
 		  	"embed": "true"
+		}, {
+			"name": "Logo",
+		   	"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/480px-Telegram_logo.svg.png",    
+		  	"url" : ""
 		}
 		]
 	}, {
