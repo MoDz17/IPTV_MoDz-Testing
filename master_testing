@@ -27,9 +27,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 09/--/2023",
+             "name": "Ultm. versión 12/--/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 09/--/2023"
+            "info": "última versión actualizada el 12/--/2023"
 	}, {
 			"name": "TESTING 20/02",
 			"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
@@ -457,10 +457,94 @@
    		"info": "",
 		"stations": [{}]
 	}, {
-		"name": "TESTING soon...",
+		"name": "VPN",
    		"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
    		"info": "",
-		"stations": [{}]
+		"stations": [
+		
+		{
+			"name": "WatchLiveS",
+			"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
+			"url":"http://www.sports-stream.site/ch/ch47.html",
+			"isHost" : "true"
+		 }, {
+			"name": "WatchLiveS",
+			"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
+			"url":"http://www.sports-stream.site/ch/ch31.html",
+			"isHost" : "true"
+		 }, {
+			"name": "PirloTV",
+			"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
+			"url":"https://pirlotvonlinehd.net/canal-1.php",
+			"isHost" : "true"
+		 }, {
+			"name": "PirloTV",
+			"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
+			"url":"https://pirlotvonlinehd.net/real-madrid.php",
+			"isHost" : "true"
+		 }, {
+			"name": "PirloTV",
+			"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
+			"url":"",
+			"isHost" : "true"
+		 }, {
+			"name": "PirloTV",
+			"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
+			"url":"",
+			"isHost" : "true"
+		 }, {
+			"name": "PirloTV",
+			"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
+			"url":"",
+			"isHost" : "true"
+		 }, {
+			"name": "PirloTV",
+			"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
+			"url":"",
+			"isHost" : "true"
+		 }, {
+			"name": "PirloTV",
+			"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
+			"url":"",
+			"isHost" : "true"
+		 }, {
+			"name": "PirloTV",
+			"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
+			"url":"",
+			"isHost" : "true"
+		 }, {
+			"name": "PirloTV",
+			"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
+			"url":"",
+			"isHost" : "true"
+		 }, {
+			"name": "PirloTV",
+			"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
+			"url":"",
+			"isHost" : "true"
+		 }, {
+			"name": "PirloTV",
+			"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
+			"url":"",
+			"isHost" : "true"
+		 }, {
+			"name": "PirloTV",
+			"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
+			"url":"",
+			"isHost" : "true"
+		 }, {
+			"name": "PirloTV",
+			"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
+			"url":"",
+			"isHost" : "true"
+		 }, {
+			"name": "PirloTV",
+			"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
+			"url":"",
+			"isHost" : "true"
+		 }
+		
+		]
 	}, {
 		"name": "TESTING soon...",
    		"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
