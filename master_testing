@@ -475,7 +475,7 @@
 		 }, {
 			"name": "PirloTV",
 			"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
-			"url":"https://pirlotvonlinehd.net/canal-1.php",
+			"url":"https://pirlotvonlinehd.net/espn.php",
 			"isHost" : "true"
 		 }, {
 			"name": "PirloTV",
@@ -485,17 +485,17 @@
 		 }, {
 			"name": "PirloTV",
 			"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
-			"url":"",
+			"url":"https://pirlotvonlinehd.net/canal-11.php",
 			"isHost" : "true"
 		 }, {
-			"name": "PirloTV",
+			"name": "PirloTV**",
 			"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
-			"url":"",
+			"url":"https://pirlotvonlinehd.net/canal-1.php",
 			"isHost" : "true"
 		 }, {
-			"name": "PirloTV",
+			"name": "PirloTV FR",
 			"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
-			"url":"",
+			"url":"https://www.pirlotv.fr/2023/real-madrid-vs-chelsea-en-vivo.php",
 			"isHost" : "true"
 		 }, {
 			"name": "PirloTV",
