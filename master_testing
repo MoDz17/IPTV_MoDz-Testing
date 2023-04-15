@@ -27,9 +27,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 12/--/2023",
+             "name": "Ultm. versión 15/--/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 12/--/2023"
+            "info": "última versión actualizada el 15/--/2023"
 	}, {
 			"name": "TESTING 20/02",
 			"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
@@ -470,7 +470,7 @@
 			"userAgent" : ""
 		 }]
 	}, {
-		"name": "VPN",
+		"name": "TESTING VPN",
    		"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
    		"info": "",
 		"stations": [
@@ -559,10 +559,31 @@
 		
 		]
 	}, {
-		"name": "TESTING soon...",
+		"name": "TESTING 15/04",
    		"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
    		"info": "",
-		"stations": [{}]
+		"stations": [
+		{
+		"name": "Movistar",
+		"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
+		"url": "https://www.movistarplus.es/guiamovil",
+		"embed": "true"
+		}, {
+		"name": "DAZN",
+		"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
+		"url": "https://www.dazn.com/es-ES/schedule",
+		"embed": "true"
+		}, {
+		"name": "General",
+		"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
+		"url": "https://www.futboltv.info",
+		"embed": "true"
+		}, {
+		"name": "Toros",
+		"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
+		"url": "https://elmuletazo.com/agenda-de-toros-en-television/",
+		"embed": "true"
+		}]
 	}, {
 		"name": "TESTING soon...",
    		"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
