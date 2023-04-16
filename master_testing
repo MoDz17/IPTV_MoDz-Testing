@@ -27,9 +27,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 15/--/2023",
+             "name": "Ultm. versión 16/--/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 15/--/2023"
+            "info": "última versión actualizada el 16/--/2023"
 	}, {
 			"name": "TESTING 20/02",
 			"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
@@ -555,33 +555,96 @@
 			"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
 			"url":"",
 			"isHost" : "true"
-		 }
-		
-		]
+		 }]
 	}, {
-		"name": "TESTING 15/04",
+		"name": "TESTING 16/04",
    		"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
    		"info": "",
 		"stations": [
 		{
 		"name": "Movistar",
-		"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
-		"url": "https://www.movistarplus.es/guiamovil",
+		"image": "https://i.ibb.co/Nn2YtQG/logo-category-Movistar.png",
+		"url": "",
 		"embed": "true"
 		}, {
 		"name": "DAZN",
-		"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
-		"url": "https://www.dazn.com/es-ES/schedule",
+		"image": "https://i.ibb.co/NWLCj63/DAZN-Logo.png",
+		"url": "",
 		"embed": "true"
 		}, {
-		"name": "General",
-		"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
-		"url": "https://www.futboltv.info",
+		"name": "LaLiga",
+		"image": "https://i.ibb.co/djLCfnd/logo-category-La-Liga.jpg",
+		"url": "",
 		"embed": "true"
 		}, {
-		"name": "Toros",
-		"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
-		"url": "https://elmuletazo.com/agenda-de-toros-en-television/",
+		"name": "Liga Smartbank",
+		"image": "https://cope-cdnmed.agilecontent.com/resources/jpg/1/9/1655281910291.jpg",
+		"url": "",
+		"embed": "true"
+		}, {
+		"name": "Premier League",
+		"image": "https://i.ibb.co/bvcpXFG/logo-Premier-League.png",
+		"url": "",
+		"embed": "true"
+		}, {
+		"name": "Bundesliga",
+		"image": "https://i.ibb.co/7yYKf2N/logo-Bundesliga.png",
+		"url": "",
+		"embed": "true"
+		}, {
+		"name": "Serie A",
+		"image": "https://i.ibb.co/tZWJz6T/logo-Serie-A.png",
+		"url": "",
+		"embed": "true"
+		}, {
+		"name": "Ligue 1",
+		"image": "https://i.ibb.co/SPQCpbZ/Ligue1-logo.png",
+		"url": "",
+		"embed": "true"
+		}, {
+		"name": "NBA",
+		"image": "https://i.ibb.co/ysP3vZt/logo-category-NBA.png",
+		"url": "",
+		"embed": "true"
+		}, {
+		"name": "Liga Endesa",
+		"image": "https://i.ibb.co/gyqKGNF/logo-Endesa.jpg",
+		"url": "",
+		"embed": "true"
+		}, {
+		"name": "F1",
+		"image": "https://i.ibb.co/sWgvCCK/logo-f1-fix.png",
+		"url": "",
+		"embed": "true"
+		}, {
+		"name": "MotoGP",
+		"image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
+		"url": "",
+		"embed": "true"
+		}, {
+		"name": "Tenis",
+		"image": "https://i.ibb.co/2hzzxFG/logo-Tenis.png",
+		"url": "",
+		"embed": "true"
+		}, {
+		"name": "UFC",
+		"image": "https://i.ibb.co/S5NN7p3/logo-ufc.png",
+		"url": "",
+		"embed": "true"
+		}, {
+		"name": "Béisbol",
+		"image": "https://i.ibb.co/4Km4DJp/MLB-logo.png",
+		"url": "",
+		"embed": "true"
+		}, {
+		"name": "Rugby",
+		"image": "https://i.ibb.co/1Ggb57C/logo-NFL.png",
+		"url": "",
+		"embed": "true"
+		}, {
+		"name": "Hockey",
+		"image": "https://i.ibb.co/868xpk5/logo-NHL.png",
+		"url": "",
 		"embed": "true"
 		}]
 	}, {
@@ -589,12 +652,12 @@
    		"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
    		"info": "",
 		"stations": [{}]
-	}, {
+	},{
 		"name": "TESTING soon...",
    		"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
    		"info": "",
 		"stations": [{}]
-	},{
+	}, {
 		"name": "TESTING soon...",
    		"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
    		"info": "",
