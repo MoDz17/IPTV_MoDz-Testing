@@ -27,9 +27,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 16/--/2023",
+             "name": "Ultm. versión 18/--/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 16/--/2023"
+            "info": "última versión actualizada el 18/--/2023"
 	}, {
 			"name": "TESTING 20/02",
 			"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
@@ -468,7 +468,17 @@
 			"image": "https://i.ibb.co/ChrQRMv/BTS2.png",
 			"url":"http://163.172.221.223:90/bt2/index.m3u8",
 			"userAgent" : ""
-		 }]
+		 }, {
+				"name": "Movistar Fest",
+				"image": "https://i.ibb.co/0KhDfH0/logo-M-fest.png",
+				"url":"http://51.158.36.81:18000/M_Fest/hls/playlist.m3u8",
+				"userAgent" : ""
+		}, {
+				"name": "Dark",
+				"image": "https://i.ibb.co/zGm2z2y/logo-dark-18.png",
+				"url": "http://94.158.219.85:8081/channel/n457fb186/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.y1Ubsu9jmzophdGjATa9tpy7Lwu89ZvlFBjw4Urdy8xwjeVmPLFWo6H0_H7WHjK-ks-W5x32XD_u5Ji0WbOs9A",
+			 	"online":"true"
+	  	}]
 	}, {
 		"name": "TESTING VPN",
    		"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
