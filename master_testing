@@ -478,7 +478,18 @@
 				"image": "https://i.ibb.co/zGm2z2y/logo-dark-18.png",
 				"url": "http://94.158.219.85:8081/channel/n457fb186/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.y1Ubsu9jmzophdGjATa9tpy7Lwu89ZvlFBjw4Urdy8xwjeVmPLFWo6H0_H7WHjK-ks-W5x32XD_u5Ji0WbOs9A",
 			 	"online":"true"
-	  	}]
+	  	}, {
+		    "name": "Movistar LaLiga",
+			"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
+			 "url": "https://utopianwilderness.com/embed/bmv26p4vymf9kq",
+              		"referer": "https://starlive.xyz/",
+             		"isHost": "true"
+	     }, {
+			"name": "LaLiga [inglés]",
+	   		"image": "https://i.ibb.co/nwQrbvN/inglesa.webp",
+	   		"url":"https://enjoy4k.shop:30445/live/abr_ch4/playlist.m3u8",
+	   		"userAgent" : ""
+		}]
 	}, {
 		"name": "TESTING VPN",
    		"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
