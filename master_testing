@@ -27,9 +27,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 18/--/2023",
+             "name": "Ultm. versión 19/--/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 18/--/2023"
+            "info": "última versión actualizada el 19/--/2023"
 	}, {
 			"name": "TESTING 20/02",
 			"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
@@ -578,10 +578,62 @@
 			"isHost" : "true"
 		 }]
 	}, {
-		"name": "TESTING soon...",
+		"name": "TESTING 19/04",
    		"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
    		"info": "",
-		"stations": [{}]
+		"stations": [
+		
+		{
+			"name": "userAgent",
+			"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
+			"url":"http://2022spn.net:8080/Nicky/1234/5209",
+			"userAgent" : ""
+		 }, {
+			"name": "userAgent",
+			"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
+			"url":"http://2022spn.net:8080/Nicky/1234/5210",
+			"userAgent" : ""
+		 }, {
+			"name": "userAgent",
+			"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
+			"url":"http://skytvpluzz.xyz:8000/GoN3xt/mVD21jrp3D/5677",
+			"userAgent" : ""
+		 }, {
+			"name": "userAgent",
+			"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
+			"url":"http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/136048",
+			"userAgent" : ""
+		 }, {
+			"name": "userAgent",
+			"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
+			"url":"http://185.233.16.89/play/va08271/4122744267/441851.ts",
+			"userAgent" : ""
+		 }, {
+			"name": "isHost",
+			"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
+			"url":"http://2022spn.net:8080/Nicky/1234/5209",
+			"isHost" : "true"
+		 }, {
+			"name": "isHost",
+			"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
+			"url":"http://2022spn.net:8080/Nicky/1234/5210",
+			"isHost" : "true"
+		 }, {
+			"name": "isHost",
+			"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
+			"url":"http://skytvpluzz.xyz:8000/GoN3xt/mVD21jrp3D/5677",
+			"isHost" : "true"
+		 }, {
+			"name": "isHost",
+			"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
+			"url":"http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/136048",
+			"isHost" : "true"
+		 }, {
+			"name": "isHost",
+			"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
+			"url":"http://185.233.16.89/play/va08271/4122744267/441851.ts",
+			"isHost" : "true"
+		 }]
 	}, {
 		"name": "TESTING soon...",
    		"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
