@@ -489,7 +489,12 @@
 	   		"image": "https://i.ibb.co/nwQrbvN/inglesa.webp",
 	   		"url":"https://enjoy4k.shop:30445/live/abr_ch4/playlist.m3u8",
 	   		"userAgent" : ""
-		}]
+		}, {
+			 				"name": "Caza y Pesca",
+							"image": "https://i.ibb.co/Wz1mZ6g/logo-Caza-Pesca.png",
+      							"url": "http://51.222.154.193:80/live/346C0F77EDBDF396B9EF8A379964C00A/323601.m3u8",
+							"userAgent": ""
+             				}]
 	}, {
 		"name": "TESTING VPN",
    		"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
