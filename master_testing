@@ -27,9 +27,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 20/--/2023",
+             "name": "Ultm. versión 29/--/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 20/--/2023"
+            "info": "última versión actualizada el 29/--/2023"
 	}, {
 			"name": "TESTING 20/02",
 			"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
@@ -479,7 +479,7 @@
 				"url": "http://94.158.219.85:8081/channel/n457fb186/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.y1Ubsu9jmzophdGjATa9tpy7Lwu89ZvlFBjw4Urdy8xwjeVmPLFWo6H0_H7WHjK-ks-W5x32XD_u5Ji0WbOs9A",
 			 	"online":"true"
 	  	}, {
-		    "name": "Movistar LaLiga",
+		    	"name": "Movistar LaLiga",
 			"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
 			 "url": "https://utopianwilderness.com/embed/bmv26p4vymf9kq",
               		"referer": "https://starlive.xyz/",
@@ -490,11 +490,26 @@
 	   		"url":"https://enjoy4k.shop:30445/live/abr_ch4/playlist.m3u8",
 	   		"userAgent" : ""
 		}, {
-			 				"name": "Caza y Pesca",
-							"image": "https://i.ibb.co/Wz1mZ6g/logo-Caza-Pesca.png",
-      							"url": "http://51.222.154.193:80/live/346C0F77EDBDF396B9EF8A379964C00A/323601.m3u8",
-							"userAgent": ""
-             				}]
+			"name": "Caza y Pesca",
+			"image": "https://i.ibb.co/Wz1mZ6g/logo-Caza-Pesca.png",
+			"url": "http://51.222.154.193:80/live/346C0F77EDBDF396B9EF8A379964C00A/323601.m3u8",
+			"userAgent": ""
+		}, {
+			"name": "Movistar Golf",
+			"image": "https://i.ibb.co/sVPN8q6/logo-golf.png",
+			"url" : "http://sharkytv.com:2082/bMa7Qa3rbPg1nZ/fOs7Nmf5tV97dfS/135992",
+			"userAgent" : ""
+	 	}, {
+		   	"name": "DAZN Liga",
+			"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
+			 "url": "https://daddy.yurendtv.biz.id/https://ddy6.onlinewebtv.lol:443/ddy6/premium538/tracks-v1a1/mono.m3u8",
+              		"userAgent" : ""
+	     	}, {
+			"name": "Movistar Liga",
+			"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
+			"url":"https://daddy.yurendtv.biz.id/https://ddy1.onlinewebtv.lol/ddy1/premium84/tracks-v1a1/mono.m3u8",
+			"userAgent" : ""
+		}]
 	}, {
 		"name": "TESTING VPN",
    		"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
