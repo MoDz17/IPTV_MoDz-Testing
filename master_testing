@@ -27,9 +27,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 02/--/2023",
+             "name": "Ultm. versión 06/--/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 02/--/2023"
+            "info": "última versión actualizada el 06/--/2023"
 	}, {
 			"name": "TESTING 20/02",
 			"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
@@ -665,10 +665,176 @@
 			"isHost" : "true"
 		 }]
 	}, {
-		"name": "TESTING soon...",
-   		"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
+		"name": "RojaDirecta",
+   		"image": "https://i.ibb.co/ct8qBh7/Roja-Directa-Logo-XL.png",
    		"info": "",
-		"stations": [{}]
+		"stations": [
+		{
+			"name": "               ↑  USAR  ↑",
+			"image": "https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/vpn-2930744.jpg?tf=3840x",    
+			"url" : ""
+		}, {
+			"name": "Peticiones",
+			"image": "https://i.ibb.co/rc9ds7x/jugones-pic-discord.png",    
+			"stations": [
+					{
+						"name": "Hacer petición",
+						"image": "https://i.ibb.co/rc9ds7x/jugones-pic-discord.png",    
+						"url" : "https://discord.gg/Bc2DXAhfPd",
+						"embed": "true"
+					}
+				    ]
+		}, {
+			"name": "Canal 1",
+			"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+			"url":"",
+			"isHost" : "false"
+		 }, {
+			"name": "Canal 2",
+			"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+			"url":"",
+			"isHost" : "true"
+		 }, {
+			"name": "Canal 3",
+			"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+			"url":"",
+			"isHost" : "true"
+		 }, {
+			"name": "Canal 4",
+			"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+			"url":"",
+			"isHost" : "true"
+		 }, {
+			"name": "Canal 5",
+			"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+			"url":"",
+			"isHost" : "true"
+		 }, {
+			"name": "Canal 6",
+			"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+			"url":"",
+			"isHost" : "true"
+		 }, {
+			"name": "Canal 7",
+			"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+			"url":"",
+			"isHost" : "true"
+		 }, {
+			"name": "Canal 8",
+			"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+			"url":"",
+			"isHost" : "true"
+		 }, {
+			"name": "Canal 9",
+			"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+			"url":"",
+			"isHost" : "true"
+		 }, {
+			"name": "Canal 10",
+			"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+			"url":"",
+			"isHost" : "true"
+		 }, {
+			"name": "Canal 11",
+			"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+			"url":"",
+			"isHost" : "true"
+		 }, {
+			"name": "Canal 12",
+			"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+			"url":"",
+			"isHost" : "true"
+		 }, {
+			"name": "Canal 13",
+			"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+			"url":"",
+			"isHost" : "true"
+		 }, {
+			"name": "Canal 14",
+			"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+			"url":"",
+			"isHost" : "true"
+		 }, {
+			"name": "Canal 15",
+			"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+			"url":"",
+			"isHost" : "true"
+		 }, {
+			"name": "Canal 16",
+			"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+			"url":"",
+			"isHost" : "true"
+		 }, {
+			"name": "Canal 17",
+			"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+			"url":"",
+			"isHost" : "true"
+		 }, {
+			"name": "Canal 18",
+			"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+			"url":"",
+			"isHost" : "true"
+		 }, {
+			"name": "Canal 19",
+			"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+			"url":"",
+			"isHost" : "true"
+		 }, {
+			"name": "Canal 20",
+			"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+			"url":"",
+			"isHost" : "true"
+		 }, {
+			"name": "Canal 21",
+			"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+			"url":"",
+			"isHost" : "true"
+		 }, {
+			"name": "Canal 22",
+			"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+			"url":"",
+			"isHost" : "true"
+		 }, {
+			"name": "Canal 23",
+			"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+			"url":"",
+			"isHost" : "true"
+		 }, {
+			"name": "Canal 24",
+			"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+			"url":"",
+			"isHost" : "true"
+		 }, {
+			"name": "Canal 25",
+			"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+			"url":"",
+			"isHost" : "true"
+		 }, {
+			"name": "Canal 26",
+			"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+			"url":"",
+			"isHost" : "true"
+		 }, {
+			"name": "Canal 27",
+			"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+			"url":"",
+			"isHost" : "true"
+		 }, {
+			"name": "Canal 28",
+			"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+			"url":"",
+			"isHost" : "true"
+		 }, {
+			"name": "Canal 29",
+			"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+			"url":"",
+			"isHost" : "true"
+		 }, {
+			"name": "Canal 30",
+			"image": "https://i.ibb.co/jr7VQss/logo-off.png",
+			"url":"",
+			"isHost" : "true"
+		 }]
 	}, {
 		"name": "TESTING soon...",
    		"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
