@@ -670,9 +670,8 @@
    		"info": "",
 		"stations": [
 		{
-			"name": "           ↑  USAR  ↑",
-			"image": "https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2023/01/vpn-2930744.jpg?tf=3840x",    
-			"url" : ""
+			"name": "          ⚠️↑  USAR  ↑⚠️",
+			"image": "https://i.ibb.co/1KHsD50/use-vpn.webp"
 		}, {
 			"name": "Solicitar evento",
 			"image": "https://i.ibb.co/rc9ds7x/jugones-pic-discord.png",
