@@ -27,7 +27,7 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 20/--/2023",
+             "name": "Ultm. versión 25/--/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
             "info": "última versión actualizada el 20/--/2023"
 	}, {
@@ -509,7 +509,100 @@
 			"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
 			"url":"https://daddy.yurendtv.biz.id/https://ddy1.onlinewebtv.lol/ddy1/premium84/tracks-v1a1/mono.m3u8",
 			"userAgent" : ""
-		}]
+		}, {  
+				"name": "Canal 2",
+				"info": "Zona Movistar",
+				"image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
+				 "url": "https://voraciousglove.net/embed/89ftq8ua1j5lr",
+				 "referer" : "https://macron.xyz/",
+				 "isHost" : "true"
+}, 
+
+{
+			    "name": "Canal 2",
+			    "info": "Zona Movistar - rq4g6",
+			    "image": "https://i.ibb.co/HHL04RY/logo-vamos.png",    
+		            "url": "https://parsimoniousinvincible.net/embed/rq4g6",
+			    "referer":"https://1stream.buzz/",
+			    "isHost":"true"
+}, {
+			    "name": "Canal 3",
+			    "info": "Zona Movistar - 105qqn",
+			    "image": "https://i.ibb.co/3CcWsMq/logo-deportes2.png",
+			    "url": "https://parsimoniousinvincible.net/embed/105qqn",
+			    "referer" : "https://macron.xyz/",
+			    "isHost": "true"
+}, {
+                "name": "Canal 7",
+                "info": "Liga Endesa - dp4tig",
+                "image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
+                "url": "https://parsimoniousinvincible.net/embed/dp4tigbdvjxr4l",
+                "referer" : "https://macron.xyz/",
+                "isHost": "true"
+}, {
+                "name": "Canal 9",
+                "info": "Liga Endesa - dxcfd",
+                "image": "http://jordidalmau.net/wp-content/uploads/2015/03/liga-endesa.png",
+                "url": "https://parsimoniousinvincible.net/embed/dxcfd934ttzx",
+                "referer" : "https://macron.xyz/",
+                "isHost": "true" 
+}, {
+                "name": "Canal 7",
+                "info": "Zona DAZN - h5m4gy",
+                "image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
+                "url": "https://parsimoniousinvincible.net/embed/h5m4gyv36vtc",
+                "referer": "https://macron.xyz/",
+                "isHost": "true"
+}, {
+                "name": "Canal 18",
+                "info": "MotoGP - wwcujo",
+                "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
+                "url": "https://strayindicate.net/embed/wwcujo0oiatyw93",
+                "referer": "https://1rowsportz.info/",
+                "isHost": "true"
+}, {
+                "name": "Canal 15",
+                "info": "MotoGP - 2k2kr22",
+                "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
+                "url": "https://cdn122.com/embed/2k2kr220ol6yr6i?skin=26",
+                "referer": "https://l1l1.to/",
+                "isHost": "true"
+}, {
+			    "name": "Canal 1",
+			    "info": "LaLiga - 6na79",
+			    "image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
+			    "url": "https://parsimoniousinvincible.net/embed/6na79kddf",
+			    "referer": "https://macron.xyz/",
+		 	    "isHost": "true"
+}, {
+			    "name": "Canal 26",
+			    "info": "LaLiga - zbz7klq",
+			    "image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
+			    "url" : "https://voraciousglove.net/embed/zbz7klq",
+			    "referer": "https://1stream.buzz/",
+			    "isHost": "true" 
+}, {
+			    "name": "Canal 7",
+			    "info": "Zona DAZN2 - xmr0xxbb",
+			    "image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
+			    "url": "https://parsimoniousinvincible.net/embed/xmr0xxbbmzod",
+			    "referer": "https://macron.xyz/",
+			    "isHost": "true"
+}, {
+			    "name": "Canal 8",
+			    "info": "Zona DAZN3 - xvofyfk",
+			    "image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
+			    "url": "https://parsimoniousinvincible.net/embed/xvofyfktwqkwrr",
+			    "referer" : "https://macron.xyz/",
+			    "isHost":"true"
+}, {
+	            "name": "Canal 5",
+	            "info": "Zona DAZN4 - w67i2uz",
+	            "image": "https://i.ibb.co/LQy2rM6/DAZN-4-Logo-Sin-Fondo.png",
+	            "url" : "https://parsimoniousinvincible.net/embed/w67i2uz",
+	            "referer": "https://macron.xyz/",
+	            "isHost": "true"
+}]
 	}, {
 		"name": "TESTING VPN",
    		"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
