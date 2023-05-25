@@ -522,9 +522,10 @@
 			"url":"https://www.rojadirectaonlinetv.net/2022/ciclismo-giro-de-italia,-etapa-14.html",
 			"isHost" : "true"
 		 }, {
-			"name": "2RD",
+			"name": "Test",
+			"info": "test label",
 			"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
-			"url":"https://www.selogel.site/905.php",
+			"url":"",
 			"isHost" : "true"
 		 }, {
 			"name": "3RD",
