@@ -511,14 +511,12 @@
 			"userAgent" : ""
 		}, {  
 				"name": "Canal 2",
-				"info": "Zona Movistar",
+				"info": "Zona Movistar - 89ftq8",
 				"image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
 				 "url": "https://voraciousglove.net/embed/89ftq8ua1j5lr",
 				 "referer" : "https://macron.xyz/",
 				 "isHost" : "true"
-}, 
-
-{
+}, {
 			    "name": "Canal 2",
 			    "info": "Zona Movistar - rq4g6",
 			    "image": "https://i.ibb.co/HHL04RY/logo-vamos.png",    
