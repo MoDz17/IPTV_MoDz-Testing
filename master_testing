@@ -27,9 +27,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 25/--/2023",
+             "name": "Ultm. versión 27/--/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 20/--/2023"
+            "info": "última versión actualizada el 27/--/2023"
 	}, {
 			"name": "TESTING 20/02",
 			"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
@@ -552,20 +552,6 @@
                 "referer": "https://macron.xyz/",
                 "isHost": "true"
 }, {
-                "name": "Canal 18",
-                "info": "MotoGP - wwcujo",
-                "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
-                "url": "https://strayindicate.net/embed/wwcujo0oiatyw93",
-                "referer": "https://1rowsportz.info/",
-                "isHost": "true"
-}, {
-                "name": "Canal 15",
-                "info": "MotoGP - 2k2kr22",
-                "image": "https://i.ibb.co/F8KYhbj/logo-motogp-fix.png",
-                "url": "https://cdn122.com/embed/2k2kr220ol6yr6i?skin=26",
-                "referer": "https://l1l1.to/",
-                "isHost": "true"
-}, {
 			    "name": "Canal 1",
 			    "info": "LaLiga - 6na79",
 			    "image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
@@ -600,6 +586,13 @@
 	            "url" : "https://parsimoniousinvincible.net/embed/w67i2uz",
 	            "referer": "https://macron.xyz/",
 	            "isHost": "true"
+}, {
+					"name": "Canal 15",
+					"info": "LigaSmartbank",
+					"image": "https://i.ibb.co/tLYqRVW/logo-Liga-Smartbank.jpg",
+					"url" : "https://voraciousglove.net/embed/ghwmh8cp1hkn",
+			 		"referer": "https://1stream.buzz/",
+           				"isHost" : "true"
 }]
 	}, {
 		"name": "TESTING VPN",
