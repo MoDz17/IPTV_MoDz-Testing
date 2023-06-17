@@ -27,9 +27,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 27/--/2023",
+             "name": "Ultm. versión 17/--/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 11/--/2023"
+            "info": "última versión actualizada el 17/--/2023"
 	}, {
 			"name": "TESTING 20/02",
 			"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
@@ -774,10 +774,82 @@
 	 	}]
 		
 	}, {
-		"name": "TESTING soon...",
+		"name": "TESTING 17/06",
    		"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
    		"info": "",
-		"stations": [{}]
+		"stations": [
+		{
+		"name": "Movistar Liga",
+	   	"image": "https://i.ibb.co/djLCfnd/logo-category-La-Liga.jpg",
+	   	"url":"http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/88737",
+	   	"userAgent" : ""
+	 	}, {
+		"name": "Smartbank",
+	   	"image": "https://i.ibb.co/tLYqRVW/logo-Liga-Smartbank.jpg",
+	   	"url":"http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/69962",
+	   	"userAgent" : ""
+	 	}, {
+		"name": "Liga de Campeones",
+	   	"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
+	   	"url":"http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/38569",
+	   	"userAgent" : ""
+	 	}, {
+		"name": "Liga de Campeones",
+	   	"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
+	   	"url":"http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/1615",
+	   	"userAgent" : ""
+	 	}, {
+		"name": "Liga de Campeones",
+	   	"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
+	   	"url":"http://457315247963246282.discoveryapp.xyz:80/play/vi101551/1875644199/246282.ts",
+	   	"userAgent" : ""
+	 	}, {
+		"name": "Liga de Campeones",
+	   	"image": "https://i.ibb.co/rKhZQWJ/Liga-Campeones-Logo-sin-Fondo2.png",
+	   	"url":"http://181.78.11.238:6837/play/a02w",
+	   	"userAgent" : ""
+	 	}, {
+		"name": "Movistar Vamos",
+	   	"image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
+	   	"url":"http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/11885",
+	   	"userAgent" : ""
+	 	}, {
+		"name": "Movistar Deportes",
+	   	"image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
+	   	"url":"http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/11915",
+	   	"userAgent" : ""
+	 	}, {
+		"name": "DAZN F1",
+	   	"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
+	   	"url":"http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/11779",
+	   	"userAgent" : ""
+	 	}, {
+		"name": "DAZN 1",
+	   	"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
+	   	"url":"http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/11775",
+	   	"userAgent" : ""
+	 	}, {
+		"name": "DAZN 3",
+	   	"image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
+	   	"url":"http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/11777",
+	   	"userAgent" : ""
+	 	}, {
+		"name": "DAZN 4",
+	   	"image": "https://i.ibb.co/LQy2rM6/DAZN-4-Logo-Sin-Fondo.png",
+	   	"url":"http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/11778",
+	   	"userAgent" : ""
+	 	}, {
+		"name": "Eurosport 1",
+	   	"image": "https://i.ibb.co/Ntcj66Q/logo-es1.webp",
+	   	"url":"http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/90494",
+	   	"userAgent" : ""
+	 	}, {
+		"name": "Eurosport 2",
+	   	"image": "https://i.ibb.co/HLcq8Cj/logo-es2.webp",
+	   	"url":"http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/90495",
+	   	"userAgent" : ""
+	 	}
+	      ]
 	}, {
 		"name": "TESTING soon...",
    		"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
