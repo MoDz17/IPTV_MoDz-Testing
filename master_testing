@@ -27,16 +27,16 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 17/--/2023",
+             "name": "Ultm. versión 04/--/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 17/--/2023"
+            "info": "última versión actualizada el 04/--/2023"
 	}, {
 			"name": "TESTING 20/02",
 			"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
 			"info": "",
 			"stations": [{
 		"name": "Testing bTV",
-		"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
+		"image": "https://i.ibb.co/3BdvbXm/IMG-4266.jpg",
 		"url": "https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8",
              	"userAgent": ""
 	}, {
