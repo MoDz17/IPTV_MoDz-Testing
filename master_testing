@@ -882,9 +882,19 @@
 	      ]
 	}, {
 		"name": "TESTING soon...",
-   		"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
+   		"image": "https://sanferminespamplona.es/wp-content/uploads/cartel-2023.jpg",
    		"info": "",
-		"stations": [{}]
+		"stations": [{
+			"name": "Encierro 1",
+			   "image": "https://i.ytimg.com/vi/NJXZXEhdgI0/maxresdefault.jpg",
+			   "url":"https://rtvehlsvodlote7.rtve.es/mediavodv2/resources/TE_SSNF023/mp4/5/3/1688709908235.mp4/1688709908235-audio=128450-video=1083000.m3u8?idasset=6929972",
+			   "userAgent" : ""
+		 }, {
+			"name": "Encierro 2",
+			   "image": "https://i.ytimg.com/vi/TPsl4cpPBo0/maxresdefault.jpg",
+			   "url":"https://rtvehlsvodlote7.rtve.es/mediavodv2/resources/TE_SSNF023/mp4/7/7/1688796287277.mp4/1688796287277-audio=128434-video=1207636.m3u8?idasset=6930805",
+			   "userAgent" : ""
+		 }]
 	}, {
 		"name": "TESTING soon...",
    		"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
