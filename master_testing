@@ -27,9 +27,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 04/--/2023",
+             "name": "Ultm. versión 09/--/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 04/--/2023"
+            "info": "última versión actualizada el 09/--/2023"
 	}, {
 			"name": "TESTING 20/02",
 			"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
@@ -600,7 +600,37 @@
 			 "url": "https://parsimoniousinvincible.net/embed/xvofyfktwqkwrr",
 			"referer": "https://streamonsport.ru/",
 			"isHost" : "true"
- }]
+ }, {
+              		"name": "Sport TV-1",
+			"image": "https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png",
+		 	"url" :  "https://unbiasedsenseevent.com/embed/k2szvuyqaq8a44x",
+			"referer" : "https://buzztv.futbol/",
+			 "isHost":"true"
+		}, {
+             		"name": "Sport TV-2",
+			"image": "https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png",
+			 "url" :  "https://unbiasedsenseevent.com/embed/ozbhq",
+			"referer" : "https://buzztv.futbol/",
+			 "isHost":"true"
+          }, {
+             		"name": "Sport TV-3",
+			"image": "https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png",
+			 "url" :  "https://unbiasedsenseevent.com/embed/5ojjlk47ul",
+			"referer" : "https://buzztv.futbol/",
+			 "isHost":"true"
+          }, {
+              		"name": "Sport TV-4",
+			"image": "https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png",
+			  "url" :  "https://unbiasedsenseevent.com/embed/lsdcbyzutk9g9",
+			"referer" : "https://buzztv.futbol/",
+			 "isHost":"true"
+                }, {
+              		"name": "Sport TV-5",
+			"image": "https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png",
+			 "url" :  "https://unbiasedsenseevent.com/embed/kq68lxi2vab",
+			"referer" : "https://buzztv.futbol/",
+			 "isHost":"true"
+                }]
 	}, {
 		"name": "TESTING VPN",
    		"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
