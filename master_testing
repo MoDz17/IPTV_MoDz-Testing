@@ -27,9 +27,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 15/--/2023",
+             "name": "Ultm. versión 16/--/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 15/--/2023"
+            "info": "última versión actualizada el 16/--/2023"
 	}, {
 			"name": "TESTING 20/02",
 			"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
@@ -890,13 +890,234 @@
 							"image":"https://i0.wp.com/asturiaslaica.com/wp-content/uploads/2019/04/tv-static.gif?resize=444%2C277&ssl=1",
 							"stations": 
 							 [
-							{
-								"name": "",
-								"info": "",
-								"image": "",
-								"url": "",
-								"embed": "false"
-							}
+						  {
+							 "name": "La 1",
+							"image": "https://i.ibb.co/GHqBPVz/La1-logo.png",
+							"url":"https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8",
+							"userAgent" : ""
+						  }, {
+							"name": "La 2",
+						   "image": "https://i.ibb.co/qF7Zy0f/La2-logo.png",
+						   "url":"https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main_dvr_720.m3u8",
+						   "userAgent" : ""
+						 }, {
+							"name": "Antena 3",
+							"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1200px-Antena_3_%282017%29.svg.png",
+							"url":"https://www.atresplayer.com/directos/antena3/",
+							"embed": "true"
+						}, {
+							"name": "Cuatro",
+							"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Cuatro_logo.svg/2048px-Cuatro_logo.svg.png",
+							"url":"https://www.mitele.es/directo/cuatro/",
+							"embed": "true"
+						}, {
+						   "name": "Telecinco",
+						   "image": "https://i.ibb.co/Jqn9qfk/logo-telecinco.png",
+						   "url":"https://www.mitele.es/directo/telecinco/",
+						   "embed": "true"
+						 }, {
+							"name": "La sexta",
+							"image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/LaSexta_HD_Logo_2016.png",
+							"url":"https://www.atresplayer.com/directos/lasexta/",
+							"embed": "true"
+						}, {
+						   "name": "Telemadrid",
+						   "image": "https://i.ibb.co/nLx8TJf/telemadrid-logo.png",
+						   "url":"https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8",
+						   "userAgent" : ""
+						 }, {
+							"name": "La Otra",
+							"image": "https://i.ibb.co/hKbFJvp/logo-la-Otra.png",
+							"url":"https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/bitrate_1.m3u8",
+							"userAgent" : ""
+		 				}, {
+							"name": "Neox",
+							"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/2560px-Neox.svg.png",
+							"url":"https://www.atresplayer.com/directos/neox/",
+							"embed": "true"
+						}, {
+							"name": "Nova",
+							"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/2560px-Nova.svg.png",
+							"url":"https://www.atresplayer.com/directos/nova/",
+							"embed": "true"
+						}, {
+							"name": "Mega",
+							"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2560px-MEGA.svg.png",
+							"url":"https://www.atresplayer.com/directos/mega/",
+							"embed": "true"
+						}, {
+							"name": "FDF",
+							"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png",
+							"url":"https://www.mitele.es/directo/fdf/",
+							"embed": "true"
+						}, {
+							"name": "Energy",
+							"image": "https://album.mediaset.es/file/10002/2017/11/21/energy_circular_500_-1_4048.png",
+							"url":"https://www.mitele.es/directo/energy/",
+							"embed": "true"
+						}, {
+							"name": "Divinity",
+							"image": "https://album.mediaset.es/file/10002/2017/11/17/divinity_circular_500_-1_d687.png",
+							"url":"https://www.mitele.es/directo/divinity/",
+							"embed": "true"
+						}, {
+							"name": "BeMad",
+							"image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Be-Mad.png",
+							"url":"https://www.mitele.es/directo/bemad/",
+							"embed": "true"
+						}, {
+							"name": "MTMAD",
+							"image": "https://album.mediaset.es/parrillas/2022/09/01/eee72e5a3dbf7eb537bf4521323f87961662039808.png",
+							"url":"https://www.mitele.es/directo/mtmad-24h/",
+							"embed": "true"
+						}, {
+							"name": "DMAX",
+							"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/1200px-DMax_Espa%C3%B1a.svg.png",
+							"url":"https://tivify.tv/player?channel=RNA62",
+							"embed": "true"
+						}, {
+							"name": "DKISS",
+							"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/DKISS_2019_logo.svg/1200px-DKISS_2019_logo.svg.png",
+							"url":"https://tivify.tv/player?channel=RNA63",
+							"embed": "true"
+						}, {
+							"name": "Paramount Channel",
+							"image": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/59/Paramount_Channel.svg/1200px-Paramount_Channel.svg.png",
+							"url":"https://tivify.tv/player?channel=CNA87",
+							"embed": "true"
+						}, {
+							"name": "A3 Series",
+							"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png",
+							"url":"https://www.atresplayer.com/directos/atreseries/",
+							"embed": "true"
+						}, {
+							"name": "24h",
+						   	"image": "https://i.ibb.co/NncBbd6/24h-logo.webp",
+						   	"url":"https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8",
+						   	"userAgent" : ""
+						 }, {
+							"name": "Teledeporte",
+						   "image": "https://i.ibb.co/7QP3X8W/tdp-logo.webp",
+						   "url":"https://ztnr.rtve.es/ztnr/1712295.m3u8",
+						   "userAgent" : ""
+						 }, {
+						   "name": "Gol Play",
+						   "image": "https://i.ibb.co/4ZhrbdF/Gol-Play-logo.png",
+						   "url":"https://www.goltelevision.com/en-directo",
+						   "embed": "true"
+						 }, {
+						   "name": "Real Madrid",
+						   "image": "https://i.ibb.co/G5fHMBD/real-Madrid-TV-logo.png",
+						   "url":"https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
+						   "userAgent" : ""
+						 }, {
+						   "name": "Las Palmas",
+						   "image": "https://i.ibb.co/LgQTx2t/logo-UDLP-TV.png",
+						   "url":"https://cdn318.fractalmedia.es/live319/hls/cudtv/high/index.m3u8",
+						   "userAgent" : ""
+						 }, {
+							"name": "Esport 3",
+						   "image": "https://i.ibb.co/KqswCDN/esport3-logo.png",
+						   "url":"https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8",
+						   "userAgent" : ""
+						 }, {
+							"name": "À Punt",
+							"image": "https://i.ibb.co/105c5Rn/logo-a-Punt.png",
+							"url":"https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/profile_0/chunklist_dvr.m3u8",
+							"userAgent" : ""
+		 			}, {
+							"name": "Canal 1",
+							"image": "https://i.ibb.co/hyJxtMw/logo-Torole.png",
+							"url":"https://media1.ultrik.com/live/torole1.m3u8",
+							"userAgent" : ""
+		 			}, {
+							"name": "Canal 2",
+							"image": "https://i.ibb.co/hyJxtMw/logo-Torole.png",
+							"url":"https://media1.ultrik.com/live/torole1.m3u8?variant=0",
+							"userAgent" : ""
+		 			}, {
+			 				"name": "Canal 1",
+							"image": "https://i.ibb.co/wYk6sYX/logo-Mundo-Toro.png",
+      							"url": "https://coolcast2.com/embed.php?player=desktop&live=MNDT020",
+							"referer": "https://www.freeshot.live/",
+                        				"isHost": "true"
+             				}, {
+			 				"name": "Canal 2",
+							"image": "https://i.ibb.co/wYk6sYX/logo-Mundo-Toro.png",
+      							"url": "http://185.135.157.34:8080/live/Alejanlopez/AdYq4Yvy2t84/372340.m3u8?token=TEcNVUIMRl4SVQdcUAUHA1IFUQcNAARQBQECBFZZAAEHVAYBB1wHB1NBSEZARkVRBQ46C1FGXFIGBQIBBU0TQUQAF2tYAEZeElpTUwsLFRhGFwwPUEZcUR0VQVxRQwsWBVFVBAdGSEZVGxABQVxWWDsHABRcBwNDC1lEWVlNE1tZOgFRXAUKABJZRlURHhVdFxNHWFsRCg0dFVNcQRNQQFJHXxYDVVZQEk9GB1xHWUAWGkdYFyE1Qx0VVE1BBF9HXgoLFgtGCVdFW0ZIEVtEaxYGFhZHAQcMVEUTDxdRExgVCARMbgcLCl4GBxBaXVlHRllHUxdIRAxeWVhBWhNuRF4BRw4TV1VdAlJGGQ==",
+							"userAgent": ""
+             				}, {
+			 				"name": "Canal 3",
+							"image": "https://i.ibb.co/wYk6sYX/logo-Mundo-Toro.png",
+      							"url": "http://185.233.16.88:80/live/ja08203/5224310010/441850.m3u8",
+							"userAgent": ""
+             				}, {
+			 				"name": "Canal 4",
+							"image": "https://i.ibb.co/wYk6sYX/logo-Mundo-Toro.png",
+      							"url": "http://207.244.157.26:8000/live/k0kal3kan3ws3rv3r/16yUAQJN5A/512.m3u8",
+							"userAgent": ""
+             				}, {
+							"name": "Canal 5",
+							"info": "minafire",
+							"image": "https://i.ibb.co/wYk6sYX/logo-Mundo-Toro.png",
+							"url":"http://minafire.com:8080/live/BonIzCKME7/zPHE7oQejS/1100.m3u8",
+							"userAgent" : ""
+				 	}, {
+							"name": "Canal 6",
+							"image": "https://i.ibb.co/wYk6sYX/logo-Mundo-Toro.png",
+							"url":"http://2022spn.net:8080/Nicky/1234/5210",
+							"userAgent" : ""
+		 			}, {
+							"name": "Canal 7",
+							"image": "https://i.ibb.co/wYk6sYX/logo-Mundo-Toro.png",
+							"url":"http://185.71.64.28:2052/live/belguimm/PT88yuPMSsBt/96431.m3u8",
+							"userAgent" : ""
+		 			}, {
+							"name": "Canal 8",
+							"image": "https://i.ibb.co/wYk6sYX/logo-Mundo-Toro.png",
+							"url":"http://185.71.64.28:2052/live/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/96431.m3u8",
+							"userAgent" : ""
+		 			}, {
+							"name": "Canal 9",
+							"image": "https://i.ibb.co/wYk6sYX/logo-Mundo-Toro.png",
+							"url":"http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/298810.m3u8",
+							"userAgent" : ""
+		 			}, {
+			 				"name": "CMM",
+							"image": "https://i.ibb.co/5vFXwzy/logo-CMM.png",
+      							"url": "https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/protocol/https/format/applehttp/.m3u8",
+							"userAgent": ""
+             				}, {
+			 				"name": "Canal Sur",
+							"image": "https://i.ibb.co/dLRFMTF/logo-Canal-Sur.png",
+      							"url": "https://cdnlive.codev8.net/rtvalive/channel1.smil/chunklist_b2200000.m3u8",
+							"userAgent": ""
+             				}, {
+			 				"name": "Canal Extremadura",
+							"image": "https://miguia.tv/channels/big_44@2x.png",
+      							"url": "",
+							"userAgent": ""
+             				}, {
+			 				"name": "My Pádel TV",
+							"image": "https://i.ibb.co/zVS6WCK/logo-My-PTV.webp",
+      							"url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01970-mypadeldigitals-mypadeltv-samsungspain/playlist.m3u8",
+							"userAgent": ""
+             				}, {
+							"name": "Clan",
+							"image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png",
+							"url":"https://rtvelivestream-clnx.rtve.es/rtvesec/clan/clan_main_dvr_720.m3u8",
+							"userAgent": ""
+					}, {
+							"name": "Boing",
+							"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Boing_2020.svg/1200px-Boing_2020.svg.png",
+							"url":"https://www.mitele.es/directo/boing/",
+							"embed": "true"
+					}, {
+							"name": "Disney Channel",
+							"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/2560px-Disney_Channel_logo.svg.png",
+							"url":"https://tivify.tv/player?channel=INA00",
+							"embed": "true"
+					}
 							 ] 
 					}, {
 						"name":"Programas",
