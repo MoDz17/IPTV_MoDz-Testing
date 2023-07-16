@@ -973,18 +973,18 @@
 						}, {
 							"name": "DMAX",
 							"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/1200px-DMax_Espa%C3%B1a.svg.png",
-							"url":"https://tivify.tv/player?channel=RNA62",
-							"embed": "true"
+							"url":"http://gavog.com/es/watch/span/dmaxtv.php",
+							"isHost" : "true"
 						}, {
 							"name": "DKISS",
 							"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/DKISS_2019_logo.svg/1200px-DKISS_2019_logo.svg.png",
-							"url":"https://tivify.tv/player?channel=RNA63",
-							"embed": "true"
+							"url":"http://gavog.com/es/watch/span/DKIISS.php",
+							"isHost" : "true"
 						}, {
 							"name": "Paramount Channel",
 							"image": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/59/Paramount_Channel.svg/1200px-Paramount_Channel.svg.png",
-							"url":"https://tivify.tv/player?channel=CNA87",
-							"embed": "true"
+							"url":"http://gavog.com/es/watch/span/Paramunt.php",
+							"isHost" : "true"
 						}, {
 							"name": "A3 Series",
 							"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png",
@@ -1115,8 +1115,8 @@
 					}, {
 							"name": "Disney Channel",
 							"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/2560px-Disney_Channel_logo.svg.png",
-							"url":"https://tivify.tv/player?channel=INA00",
-							"embed": "true"
+							"url":"http://gavog.com/es/watch/span/disneyy-channel.php",
+							"isHost" : "true"
 					}
 							 ] 
 					}, {
