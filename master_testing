@@ -27,7 +27,7 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 16/--/2023",
+             "name": "Ultm. versión 28/--/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
             "info": "última versión actualizada el 16/--/2023"
 	}, {
@@ -1190,10 +1190,31 @@
    		"info": "",
 		"stations": [{}]
 	}, {
-		"name": "TESTING soon...",
+		"name": "TESTING 28/07",
    		"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
    		"info": "",
-		"stations": [{}]
+		"stations": 
+[
+			{ 
+                	 "name": "1",
+                    	"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
+                    	"url" :  "https://abolishstand.net/embed/w131e7go",
+			"referer" : "https://buzztv.futbol/",
+		 	"isHost":"true"
+                     },{ 
+                 	"name": "2",
+                    	"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
+                       	"url" :  "https://abolishstand.net/embed/7bkf9ztdqbvdly",
+			"referer" : "https://buzztv.futbol/",
+		 	"isHost":"true"
+                    },{ 
+                 	"name": "3",
+                    	"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
+                     	"url" :  "https://abolishstand.net/embed/d9xskrhxh8g",
+			"referer" : "https://buzztv.futbol/",
+		 	"isHost":"true"
+                     }
+]
 	}, {
 		"name": "TESTING soon...",
    		"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
