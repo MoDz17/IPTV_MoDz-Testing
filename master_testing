@@ -27,7 +27,7 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 28/--/2023",
+             "name": "Ultm. versión 29/--/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
             "info": "última versión actualizada el 16/--/2023"
 	}, {
@@ -1190,29 +1190,31 @@
    		"info": "",
 		"stations": [{}]
 	}, {
-		"name": "TESTING 28/07",
+		"name": "TESTING 29/07",
    		"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
    		"info": "",
 		"stations": 
 [
-			{ 
-                	 "name": "1",
-                    	"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
-                    	"url" :  "https://abolishstand.net/embed/w131e7go",
-			"referer" : "https://buzztv.futbol/",
-		 	"isHost":"true"
-                     },{ 
-                 	"name": "2",
-                    	"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
-                       	"url" :  "https://abolishstand.net/embed/7bkf9ztdqbvdly",
-			"referer" : "https://buzztv.futbol/",
-		 	"isHost":"true"
-                    },{ 
-                 	"name": "3",
-                    	"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
-                     	"url" :  "https://abolishstand.net/embed/d9xskrhxh8g",
-			"referer" : "https://buzztv.futbol/",
-		 	"isHost":"true"
+		      { 
+                	 "name": "1.1 SD",
+                    	"image": "https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/champions-tour.png",
+                    	"url" :  "http://499816947258545232.ot0711.xyz:80/play/vi428027/hdFucGwknR/545232.ts",
+			"userAgent" : ""
+                     },  { 
+                	 "name": "2.1 HD",
+                    	"image": "https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/champions-tour.png",
+                    	"url" :  "http://499816947258545233.ot0711.xyz:80/play/vi428027/hdFucGwknR/545233.ts",
+			"userAgent" : ""
+                     },  { 
+                	 "name": "1.2 SD",
+                    	"image": "https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/champions-tour.png",
+                    	"url" :  "http://499816947258545232.ot0711.xyz:80/play/vi428027/hdFucGwknR/545232",
+			"userAgent" : ""
+                     },  { 
+                	 "name": "2.2 HD",
+                    	"image": "https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/champions-tour.png",
+                    	"url" :  "http://499816947258545233.ot0711.xyz:80/play/vi428027/hdFucGwknR/545233",
+			"userAgent" : ""
                      }
 ]
 	}, {
