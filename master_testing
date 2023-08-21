@@ -230,49 +230,49 @@
 				"info":"magott FHD",
 	   			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
 	   			"url":"http://magott.net:80/okota397/34882648583/2666",
-	   			"isHost": "true"
+	   			"userAgent" : ""
 	 		}, {
 				"name": "MAIN1",
 				"info":"magott FHD",
 	   			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
 	   			"url":"http://magott.net:80/okota397/34882648583/53781",
-	   			"isHost": "true"
+	   			"userAgent" : ""
 	 		}, {
 				"name": "MAIN2",
 				"info":"IP89 FHD",
 	   			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
 	   			"url":"http://89.187.173.138:43201/VGMWQgGYJc/vrf9qPrG93/117124",
-	   			"isHost": "true"
+	   			"userAgent" : ""
 	 		}, {
 				"name": "MAIN1",
 				"info":"magott HD",
 	   			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
 	   			"url":"http://magott.net:80/okota397/34882648583/65322",
-	   			"isHost": "true"
+	   			"userAgent" : ""
 	 		}, {
 				"name": "MAIN1",
 				"info":"magott HD",
 	   			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
 	   			"url":"http://magott.net:80/okota397/34882648583/2665",
-	   			"isHost": "true"
+	   			"userAgent" : ""
 	 		}, {
 				"name": "MAIN3",
 				"info":"yorksh SD",
 	   			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
 	   			"url":"http://yorkshiredog.xyz:8080/RamonLara/rmlr33/10434",
-	   			"isHost": "true"
+	   			"userAgent" : ""
 	 		}, {
 				"name": "MAIN3",
 				"info":"yorksh FHD",
 	   			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
 	   			"url":"http://yorkshiredog.xyz:8080/RamonLara/rmlr33/44326",
-	   			"isHost": "true"
+	   			"userAgent" : ""
 	 		}, {
 				"name": "MAIN1",
 				"info":"magott HD",
 	   			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
 	   			"url":"http://magott.net:80/okota397/34882648583/61462",
-	   			"isHost": "true"
+	   			"userAgent" : ""
 	 		}
 		]
 	}, {
