@@ -27,9 +27,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 29/--/2023",
+             "name": "Ultm. versión 21/--/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 16/--/2023"
+            "info": "última versión actualizada el 21/--/2023"
 	}, {
 			"name": "TESTING 20/02",
 			"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
@@ -219,7 +219,63 @@
 	   	"url":"https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8",
 	   	"userAgent" : ""
 	 }]
-		}, {
+}, {
+		"name": "TEST MAINS",
+   		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/1200px-Test-Logo.svg.png",
+   		"info": "",
+		"stations": 
+		[
+			{
+				"name": "MAIN1",
+				"info":"magott FHD",
+	   			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+	   			"url":"http://magott.net:80/okota397/34882648583/2666",
+	   			"isHost": "true"
+	 		}, {
+				"name": "MAIN1",
+				"info":"magott FHD",
+	   			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+	   			"url":"http://magott.net:80/okota397/34882648583/53781",
+	   			"isHost": "true"
+	 		}, {
+				"name": "MAIN2",
+				"info":"IP89 FHD",
+	   			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+	   			"url":"http://89.187.173.138:43201/VGMWQgGYJc/vrf9qPrG93/117124",
+	   			"isHost": "true"
+	 		}, {
+				"name": "MAIN1",
+				"info":"magott HD",
+	   			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+	   			"url":"http://magott.net:80/okota397/34882648583/65322",
+	   			"isHost": "true"
+	 		}, {
+				"name": "MAIN1",
+				"info":"magott HD",
+	   			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+	   			"url":"http://magott.net:80/okota397/34882648583/2665",
+	   			"isHost": "true"
+	 		}, {
+				"name": "MAIN3",
+				"info":"yorksh SD",
+	   			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+	   			"url":"http://yorkshiredog.xyz:8080/RamonLara/rmlr33/10434",
+	   			"isHost": "true"
+	 		}, {
+				"name": "MAIN3",
+				"info":"yorksh FHD",
+	   			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+	   			"url":"http://yorkshiredog.xyz:8080/RamonLara/rmlr33/44326",
+	   			"isHost": "true"
+	 		}, {
+				"name": "MAIN1",
+				"info":"magott HD",
+	   			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
+	   			"url":"http://magott.net:80/okota397/34882648583/61462",
+	   			"isHost": "true"
+	 		}
+		]
+	}, {
 			"name": "TESTING 27/02",
 		   "image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
 		   "info": "",
