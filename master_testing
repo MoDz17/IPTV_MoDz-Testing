@@ -227,9 +227,9 @@
 		[
 			{
 				"name": "MAIN1",
-				"info":"magott FHD m",
+				"info":"magott FHD",
 	   			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
-	   			"url":"http://magott.net:80/okota397/34882648583/2666.m3u8",
+	   			"url":"http://magott.net:80/okota397/34882648583/2666",
 	   			"userAgent" : ""
 	 		}, {
 				"name": "MAIN1",
@@ -239,9 +239,9 @@
 	   			"userAgent" : ""
 	 		}, {
 				"name": "MAIN2",
-				"info":"IP89 FHD m",
+				"info":"IP89 FHD",
 	   			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
-	   			"url":"http://89.187.173.138:43201/VGMWQgGYJc/vrf9qPrG93/117124.m3u8",
+	   			"url":"http://89.187.173.138:43201/VGMWQgGYJc/vrf9qPrG93/117124",
 	   			"userAgent" : ""
 	 		}, {
 				"name": "MAIN1",
@@ -263,9 +263,9 @@
 	   			"userAgent" : ""
 	 		}, {
 				"name": "MAIN3",
-				"info":"yorksh FHD m",
+				"info":"yorksh FHD",
 	   			"image": "https://seeklogo.com/images/L/laliga-hypermotion-logo-D9123A603F-seeklogo.com.png",
-	   			"url":"http://yorkshiredog.xyz:8080/RamonLara/rmlr33/44326.m3u8",
+	   			"url":"http://yorkshiredog.xyz:8080/RamonLara/rmlr33/44326",
 	   			"userAgent" : ""
 	 		}, {
 				"name": "MAIN1",
