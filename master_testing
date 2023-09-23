@@ -419,15 +419,15 @@
    		"info": "",
 		"stations": [
 		{
-			"name": "Logo 1",
+			"name": "DAZN Liga",
 			"image": "https://notify.com.ar/wp-content/uploads/2022/10/f.elconfidencial.com_original_000_7a9_9be_0007a99be8c5283e3edc30a082c22774.jpg",
-			"url":"",
+			"url":"https://familiatv-12.mrriskplot2.repl.co/en-vivo/dazn-laliga/index.htm",
 			"userAgent" : ""
 		 }, {
-			"name": "Logo 2",
+			"name": "DAZN Liga",
 			"image": "https://www.larepublica.net/storage/images/2020/04/27/20200427150504.cine.jpg?width=1200&enable=upscale",
-			"url":"",
-			"userAgent" : ""
+			"url":"https://familiatv-12.mrriskplot2.repl.co/en-vivo/dazn-laliga/index.htm",
+			"isHost": "true"  
 		 }, {
 			"name": "Estrenos",
 			"image": "https://i.ibb.co/VJP28P9/logo-M-estrenos.png",
