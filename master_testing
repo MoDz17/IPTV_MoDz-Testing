@@ -1280,50 +1280,50 @@
 		"stations": 
 		[
 			{ 
-                	 "name": "DAZN F1 UHD  6b94",
+                	 "name": "DAZN Liga",
 			"info": "base-host",
                     	"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
-                    	"url" :  "acestream://6b94479c24898700089e6b87d28a3ccc72dc4041",
+                    	"url" :  "acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914",
 			"isHost" : "true"
                      	}, 
 
 			{ 
-                	 "name": "DAZN F1 UHD  6b94",
+                	 "name": "DAZN Liga",
 			"info": "base-agent",
                     	"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
-                    	"url" :  "acestream://6b94479c24898700089e6b87d28a3ccc72dc4041",
+                    	"url" :  "acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914",
 			"userAgent" : ""
                      	}, 
 
 			{ 
-                	 "name": "DAZN F1 UHD  6b94",
+                	 "name": "DAZN Liga",
 			"info": "base-embed",
                     	"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
-                    	"url" :  "acestream://6b94479c24898700089e6b87d28a3ccc72dc4041",
+                    	"url" :  "acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914",
 			"embed": "true"
                      	}, 
 
 			{ 
-                	 "name": "DAZN F1 UHD  6b94",
+                	 "name": "DAZN Liga",
 			"info": "get-host",
                     	"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
-                    	"url" :  "http://127.0.0.1:6878/ace/getstream?id=6b94479c24898700089e6b87d28a3ccc72dc4041",
+                    	"url" :  "http://127.0.0.1:6878/ace/getstream?id=a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914",
 			"isHost" : "true"
                      	},
 
 			{ 
-                	 "name": "DAZN F1 UHD  6b94",
+                	 "name": "DAZN Liga",
 			"info": "get-agent",
                     	"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
-                    	"url" :  "http://127.0.0.1:6878/ace/getstream?id=6b94479c24898700089e6b87d28a3ccc72dc4041",
+                    	"url" :  "http://127.0.0.1:6878/ace/getstream?id=a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914",
 			"userAgent" : ""
                      	},
 
 			{ 
-                	 "name": "DAZN F1 UHD  6b94",
+                	 "name": "DAZN Liga",
 			"info": "get-embed",
                     	"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
-                    	"url" :  "http://127.0.0.1:6878/ace/getstream?id=6b94479c24898700089e6b87d28a3ccc72dc4041",
+                    	"url" :  "http://127.0.0.1:6878/ace/getstream?id=a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914",
 			"embed": "true"
                      	}]
 	}, {
