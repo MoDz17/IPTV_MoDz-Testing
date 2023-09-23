@@ -419,14 +419,14 @@
    		"info": "",
 		"stations": [
 		{
-			"name": "DAZN Ligaa",
+			"name": "DAZN Liga",
 			"image": "https://notify.com.ar/wp-content/uploads/2022/10/f.elconfidencial.com_original_000_7a9_9be_0007a99be8c5283e3edc30a082c22774.jpg",
-			"url":"https://dcf-de-livedazn.daznedge.net/dashdrm/dazn-linear-043/stream.mpd",
+			"url":"https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-037/stream.mpd?p=web",
 			"userAgent" : ""
 		 }, {
-			"name": "DAZN Ligaa",
+			"name": "DAZN Liga",
 			"image": "https://www.larepublica.net/storage/images/2020/04/27/20200427150504.cine.jpg?width=1200&enable=upscale",
-			"url":"https://dcf-de-livedazn.daznedge.net/dashdrm/dazn-linear-043/stream.mpd",
+			"url":"https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-037/stream.mpd?p=web",
 			"isHost": "true"  
 		 }, {
 			"name": "Estrenos",
