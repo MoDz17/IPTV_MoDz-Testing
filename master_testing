@@ -27,7 +27,7 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 21/--/2023",
+             "name": "Ultm. versión 23/--/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
             "info": "última versión actualizada el 21/--/2023"
 	}, {
@@ -1274,10 +1274,58 @@
                      }
 ]
 	}, {
-		"name": "TESTING soon...",
+		"name": "TESTING Acestream",
    		"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
    		"info": "",
-		"stations": [{}]
+		"stations": 
+		[
+			{ 
+                	 "name": "DAZN F1 UHD  6b94",
+			"info": "base-host",
+                    	"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
+                    	"url" :  "acestream://6b94479c24898700089e6b87d28a3ccc72dc4041",
+			"isHost" : "true"
+                     	}, 
+
+			{ 
+                	 "name": "DAZN F1 UHD  6b94",
+			"info": "base-agent",
+                    	"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
+                    	"url" :  "acestream://6b94479c24898700089e6b87d28a3ccc72dc4041",
+			"userAgent" : ""
+                     	}, 
+
+			{ 
+                	 "name": "DAZN F1 UHD  6b94",
+			"info": "base-embed",
+                    	"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
+                    	"url" :  "acestream://6b94479c24898700089e6b87d28a3ccc72dc4041",
+			"embed": "true"
+                     	}, 
+
+			{ 
+                	 "name": "DAZN F1 UHD  6b94",
+			"info": "get-host",
+                    	"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
+                    	"url" :  "http://127.0.0.1:6878/ace/getstream?id=6b94479c24898700089e6b87d28a3ccc72dc4041",
+			"isHost" : "true"
+                     	},
+
+			{ 
+                	 "name": "DAZN F1 UHD  6b94",
+			"info": "get-agent",
+                    	"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
+                    	"url" :  "http://127.0.0.1:6878/ace/getstream?id=6b94479c24898700089e6b87d28a3ccc72dc4041",
+			"userAgent" : ""
+                     	},
+
+			{ 
+                	 "name": "DAZN F1 UHD  6b94",
+			"info": "get-embed",
+                    	"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
+                    	"url" :  "http://127.0.0.1:6878/ace/getstream?id=6b94479c24898700089e6b87d28a3ccc72dc4041",
+			"embed": "true"
+                     	}]
 	}, {
 		"name": "TESTING soon...",
    		"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
