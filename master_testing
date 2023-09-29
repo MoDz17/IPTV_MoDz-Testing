@@ -27,199 +27,204 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 24/--/2023",
+             "name": "Ultm. versión 29/--/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 24/--/2023"
+            "info": "última versión actualizada el 29/--/2023"
 	}, {
-			"name": "TESTING 20/02",
-			"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
+			"name": "Zona Acestream",
+			"image": "https://cdn6.aptoide.com/imgs/8/3/c/83cc431eb89915771fe774e9854fce29_fgraphic.png",
 			"info": "",
-			"stations": [{
-		"name": "Testing bTV",
-		"image": "https://seealgae.com/wp-content/uploads/2022/02/que-futbol-ofrece-movistar.jpg",
-		"url": "https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8",
-             	"userAgent": ""
+			"stations": 
+			[
+
+				{ 
+                	 		"name": "DAZN Liga 1080p",
+					"info": "base-host",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/800px-DAZN_LaLiga_2023_Logo.svg.png",
+                    			"url" :  "acestream://1960a9be8ae9e8c755330218eac4c5805466290a",
+					"isHost": "true"
+                     		}, { 
+                	 		"name": "DAZN Liga 1080p",
+					"info": "base-host",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/800px-DAZN_LaLiga_2023_Logo.svg.png",
+                    			"url" :  "acestream://75251ba975132ec9a202806ba5bf606e87280c96",
+					"isHost": "true"
+                     		}, { 
+                	 		"name": "DAZN Liga 720p",
+					"info": "base-host",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/800px-DAZN_LaLiga_2023_Logo.svg.png",
+                    			"url" :  "acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914",
+					"isHost": "true"
+                     		}, { 
+                	 		"name": "DAZN Liga 2 1080p",
+					"info": "base-host",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/800px-DAZN_LaLiga_2023_Logo.svg.png",
+                    			"url" :  "acestream://e33e666c393ef04ebe99a9b92135d2e0b48c4d10",
+					"isHost": "true"
+                     		}, { 
+                	 		"name": "DAZN Liga 2 720p",
+					"info": "base-host",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/800px-DAZN_LaLiga_2023_Logo.svg.png",
+                    			"url" :  "acestream://0950c37fe1ea817fc561c611ae943d58505f7a79",
+					"isHost": "true"
+                     		},{ 
+                	 		"name": "DAZN Liga 1080p",
+					"info": "base-agent",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/800px-DAZN_LaLiga_2023_Logo.svg.png",
+                    			"url" :  "acestream://1960a9be8ae9e8c755330218eac4c5805466290a",
+					"userAgent" : ""
+                     		}, { 
+                	 		"name": "DAZN Liga 1080p",
+					"info": "base-agent",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/800px-DAZN_LaLiga_2023_Logo.svg.png",
+                    			"url" :  "acestream://75251ba975132ec9a202806ba5bf606e87280c96",
+					"userAgent" : ""
+                     		}, { 
+                	 		"name": "DAZN Liga 720p",
+					"info": "base-agent",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/800px-DAZN_LaLiga_2023_Logo.svg.png",
+                    			"url" :  "acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914",
+					"userAgent" : ""
+                     		}, { 
+                	 		"name": "DAZN Liga 2 1080p",
+					"info": "base-agent",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/800px-DAZN_LaLiga_2023_Logo.svg.png",
+                    			"url" :  "acestream://e33e666c393ef04ebe99a9b92135d2e0b48c4d10",
+					"userAgent" : ""
+                     		}, { 
+                	 		"name": "DAZN Liga 2 720p",
+					"info": "base-agent",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/800px-DAZN_LaLiga_2023_Logo.svg.png",
+                    			"url" :  "acestream://0950c37fe1ea817fc561c611ae943d58505f7a79",
+					"userAgent" : ""
+                     		}, { 
+                	 		"name": "DAZN Liga 1080p",
+					"info": "base-embed",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/800px-DAZN_LaLiga_2023_Logo.svg.png",
+                    			"url" :  "acestream://1960a9be8ae9e8c755330218eac4c5805466290a",
+					"embed": "true"
+                     		}, { 
+                	 		"name": "DAZN Liga 1080p",
+					"info": "base-embed",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/800px-DAZN_LaLiga_2023_Logo.svg.png",
+                    			"url" :  "acestream://75251ba975132ec9a202806ba5bf606e87280c96",
+					"embed": "true"
+                     		}, { 
+                	 		"name": "DAZN Liga 720p",
+					"info": "base-embed",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/800px-DAZN_LaLiga_2023_Logo.svg.png",
+                    			"url" :  "acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914",
+					"embed": "true"
+                     		}, { 
+                	 		"name": "DAZN Liga 2 1080p",
+					"info": "base-embed",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/800px-DAZN_LaLiga_2023_Logo.svg.png",
+                    			"url" :  "acestream://e33e666c393ef04ebe99a9b92135d2e0b48c4d10",
+					"embed": "true"
+                     		}, { 
+                	 		"name": "DAZN Liga 2 720p",
+					"info": "base-embed",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/800px-DAZN_LaLiga_2023_Logo.svg.png",
+                    			"url" :  "acestream://0950c37fe1ea817fc561c611ae943d58505f7a79",
+					"embed": "true"
+                     		}, { 
+                	 		"name": "DAZN Liga 1080p",
+					"info": "get-host",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/800px-DAZN_LaLiga_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=1960a9be8ae9e8c755330218eac4c5805466290a",
+					"isHost": "true"
+                     		}, { 
+                	 		"name": "DAZN Liga 1080p",
+					"info": "get-host",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/800px-DAZN_LaLiga_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=75251ba975132ec9a202806ba5bf606e87280c96",
+					"isHost": "true"
+                     		}, { 
+                	 		"name": "DAZN Liga 720p",
+					"info": "get-host",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/800px-DAZN_LaLiga_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914",
+					"isHost": "true"
+                     		}, { 
+                	 		"name": "DAZN Liga 2 1080p",
+					"info": "get-host",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/800px-DAZN_LaLiga_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=e33e666c393ef04ebe99a9b92135d2e0b48c4d10",
+					"isHost": "true"
+                     		}, { 
+                	 		"name": "DAZN Liga 2 720p",
+					"info": "get-host",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/800px-DAZN_LaLiga_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=0950c37fe1ea817fc561c611ae943d58505f7a79",
+					"isHost": "true"
+                     		}, { 
+                	 		"name": "DAZN Liga 1080p",
+					"info": "get-agent",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/800px-DAZN_LaLiga_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=1960a9be8ae9e8c755330218eac4c5805466290a",
+					"userAgent" : ""
+                     		}, { 
+                	 		"name": "DAZN Liga 1080p",
+					"info": "get-agent",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/800px-DAZN_LaLiga_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=75251ba975132ec9a202806ba5bf606e87280c96",
+					"userAgent" : ""
+                     		}, { 
+                	 		"name": "DAZN Liga 720p",
+					"info": "get-agent",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/800px-DAZN_LaLiga_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914",
+					"userAgent" : ""
+                     		}, { 
+                	 		"name": "DAZN Liga 2 1080p",
+					"info": "get-agent",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/800px-DAZN_LaLiga_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=e33e666c393ef04ebe99a9b92135d2e0b48c4d10",
+					"userAgent" : ""
+                     		}, { 
+                	 		"name": "DAZN Liga 2 720p",
+					"info": "get-agent",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/800px-DAZN_LaLiga_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=0950c37fe1ea817fc561c611ae943d58505f7a79",
+					"userAgent" : ""
+                     		}, { 
+                	 		"name": "DAZN Liga 1080p",
+					"info": "get-embed",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/800px-DAZN_LaLiga_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=1960a9be8ae9e8c755330218eac4c5805466290a",
+					"embed": "true"
+                     		}, { 
+                	 		"name": "DAZN Liga 1080p",
+					"info": "get-embed",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/800px-DAZN_LaLiga_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=75251ba975132ec9a202806ba5bf606e87280c96",
+					"embed": "true"
+                     		}, { 
+                	 		"name": "DAZN Liga 720p",
+					"info": "get-embed",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/800px-DAZN_LaLiga_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914",
+					"embed": "true"
+                     		}, { 
+                	 		"name": "DAZN Liga 2 1080p",
+					"info": "get-embed",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/800px-DAZN_LaLiga_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=e33e666c393ef04ebe99a9b92135d2e0b48c4d10",
+					"embed": "true"
+                     		}, { 
+                	 		"name": "DAZN Liga 2 720p",
+					"info": "get-embed",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/800px-DAZN_LaLiga_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=0950c37fe1ea817fc561c611ae943d58505f7a79",
+					"embed": "true"
+                     		}, { 
+                	 		"name": "***",
+					"info": "",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/1200px-Test-Logo.svg.png",
+                    			"url" :  ""
+                     		}
+			]
 	}, {
-		"name": "Testing logo",
-		"image": "https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Youtube_svg-512.png",
-		"url": "http://nbr1.co:8000/giancarlo/giancarlo/30015",
-             	"userAgent": "true"
-	}, {
-		"name": "Testing logo",
-		"image": "https://seeklogo.com/images/Y/youtube-play-black-logo-E6E4CD69C6-seeklogo.com.png",
-		"url": "http://xc.cobra-iptv.com:25461/live/spanish-v2/TdTffMonWn/509.ts",
-             	"userAgent": ""
-	}, {
-		"name": "[VK MAX] F1 Testing",
-		"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
-		"url": "https://vk.com/video739310848_456239018",
-		"embed": "true"
-	}, {
-		"name": "[VK] UFC1 Testing",
-		"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
-		"url": "https://vk.com/video739310848_456239019",
-             	"embed": "true"
-	}, {
-		"name": "[VK] UFC2 Testing",
-		"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
-		"url": "https://vk.com/video739310848_456239020",
-             	"embed": "true"
-	},
-	{
-                "name": "#0 1",
-                "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcc-umbraco-images.s3.amazonaws.com%2FEurope%2FSpain%2Fcero-logo3-300.jpg&f=1&nofb=1",
-                "url" : "https://deliriousholistic.net/embed/0y1shkg6kt9mm0",
-                "referer" : "https://verlatelevision.com/",
-                "desktop": "true",
-                "online":"true",
-			    "ishost":"true"   
-                  
-          }, {
-                "name": "#0 2",
-                "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcc-umbraco-images.s3.amazonaws.com%2FEurope%2FSpain%2Fcero-logo3-300.jpg&f=1&nofb=1",
-                "url" : "https://deliriousholistic.net/embed/0y1shkg6kt9mm0",
-                "referer" : "https://verlatelevision.com/",
-			    "ishost":"true"   
-                  
-          }, {
-                "name": "#0 3",
-                "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcc-umbraco-images.s3.amazonaws.com%2FEurope%2FSpain%2Fcero-logo3-300.jpg&f=1&nofb=1",
-                "url" : "https://deliriousholistic.net/embed/0y1shkg6kt9mm0",
-			    "ishost":"true"   
-                  
-          },
-          
-          
-          {
-                "name": "ACCION *",
-                "image": "https://static.wikia.nocookie.net/logopedia/images/a/ae/Canal%2B_Acci%C3%B3n.svg/revision/latest/scale-to-width-down/714?cb=20100604113249",
-                "url": "http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117232",
-                "online":"true"
-                  
-          },
-            
-          {
-                "name": "ESTRENOS *",
-                "image": "https://www.adslzone.net/app/uploads-adslzone.net/2017/04/movistar-estrenos-juego-de-tronos-verano-715x374.jpg",
-                "url": "http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117241",
-                "isHost":"",
-                "online":"true"
-                  
-          },
-         
-          {
-                "name": "ESTRENOS 2 *",
-                "image": "https://www.adslzone.net/app/uploads-adslzone.net/2017/04/movistar-estrenos-juego-de-tronos-verano-715x374.jpg",
-                "url": "http://653415542109321335.nicesjb.xyz:80/play/4BQNUACJNS/6010766685/321335.ts",
-		"userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
-                "online":"true"
-          },
-           {
-                "name": "DARK *",
-                "image": "https://s03.s3c.es/imag/_v0/770x420/d/2/f/dark.jpg",
-                "url": "http://94.158.219.85:8081/channel/n457fb186/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.y1Ubsu9jmzophdGjATa9tpy7Lwu89ZvlFBjw4Urdy8xwjeVmPLFWo6H0_H7WHjK-ks-W5x32XD_u5Ji0WbOs9A",
-                 "online":"true"
-                  
-          },
-	  
-	  {
-		"name": "DAZN1",
-	   	"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-	   	"url":"http://51.178.36.235:49214/DAZN_1/hls/playlist.m3u8",
-	   	"userAgent" : ""
-	 },
-	  
-	   {
-		"name": "DAZN2",
-	   	"image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
-	   	"url":"http://51.178.36.235:49214/DAZN_2/hls/playlist.m3u8",
-	   	"userAgent" : ""
-	 },
-	 
-	  {
-		"name": "DAZN3",
-	   	"image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
-	   	"url":"http://51.178.36.235:49214/DAZN_3/hls/playlist.m3u8",
-	   	"userAgent" : ""
-	 },
-	 
-	  {
-		"name": "DAZN4",
-	   	"image": "https://i.ibb.co/LQy2rM6/DAZN-4-Logo-Sin-Fondo.png",
-	   	"url":"http://51.178.36.235:49214/DAZN_4/hls/playlist.m3u8",
-	   	"userAgent" : ""
-	 },
-	 
-	  {
-		"name": "DAZN F1",
-	   	"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-	   	"url":"http://51.178.36.235:49214/DAZN_F1/hls/playlist.m3u8",
-	   	"userAgent" : ""
-	 },
-	 
-	  {
-		"name": "LaLiga [en]",
-	   	"image": "https://i.ibb.co/nwQrbvN/inglesa.webp",
-	   	"url":"https://enjoy4k.shop:30445/live/abr_ch4/playlist.m3u8",
-	   	"userAgent" : ""
-	 },
-	 
-	  {
-		"name": "¿?",
-	   	"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
-	   	"url":"https://d13hpouywdrj8a.cloudfront.net/out/v1/08068c856b81496a8ac105c692de3401/push11aus_1.m3u8",
-	   	"userAgent" : ""
-	 },
-	 
-	  {
-		"name": "DAZN1.2",
-	   	"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-	   	"url":"http://212.224.84.217:2200/NL/daznlaliga1-esp/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo",
-	   	"userAgent" : ""
-	 },
-	 
-	  {
-		"name": "M. Deportes",
-	   	"image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
-	   	"url":"http://212.224.84.217:2200/NL/mdeporteshd-esp/tracks-v1a1/mono.m3u8?token=fwBlCndpe3BpD3tnN3cSfwJlc3NicwdpfT9gfXRhe3ppenZg",
-	   	"userAgent" : ""
-	 },
-	 
-	  {
-		"name": "M. Golf",
-	   	"image": "https://i.ibb.co/sVPN8q6/logo-golf.png",
-	   	"url":"http://212.224.84.217:2200/NL/mgolfhd-esp/tracks-v1a1/mono.m3u8?token=fwBlCndpe3BpD3tnN3cSfwJlc3NicwdpfT9gfXRhe3ppenZg",
-	   	"userAgent" : ""
-	 },
-	 
-	  {
-		"name": "Smartbank",
-	   	"image": "https://static1.diariosur.es/www/multimedia/201907/30/media/cortadas/liga-smart-bank-kHMB-U80877895812lSF-1248x770@RC.jpg",
-	   	"url":"http://212.224.84.217:2200/NL/daznlaliga2-esp/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo",
-	   	"userAgent" : ""
-	 },
-	 
-	  {
-		"name": "Tenis 1",
-	   	"image": "https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-	   	"url":"https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8",
-	   	"userAgent" : ""
-	 },
-	 
-	  {
-		"name": "Tenis 2",
-	   	"image": "https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-	   	"url":"https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8",
-	   	"userAgent" : ""
-	 },
-	 
-	  {
-		"name": "Tenis 3",
-	   	"image": "https://i.pinimg.com/originals/35/a7/4a/35a74a52434d1cd8be1b954176948e99.jpg",
-	   	"url":"https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8",
-	   	"userAgent" : ""
-	 }]
-}, {
 		"name": "TEST MAINS",
    		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/1200px-Test-Logo.svg.png",
    		"info": "",
@@ -1276,7 +1281,7 @@
                      }
 ]
 	}, {
-		"name": "TESTING Acestream",
+		"name": "TESTING",
    		"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
    		"info": "",
 		"stations": 
