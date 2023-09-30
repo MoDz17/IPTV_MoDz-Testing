@@ -27,9 +27,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 29/--/2023",
+             "name": "Ultm. versión 30/--/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 29/--/2023"
+            "info": "última versión actualizada el 30/--/2023"
 	}, {
 			"name": "Zona Acestream",
 			"image": "https://cdn6.aptoide.com/imgs/8/3/c/83cc431eb89915771fe774e9854fce29_fgraphic.png",
@@ -45,7 +45,7 @@
 					"isHost": "true"
                      		}, { 
                 	 		"name": "DAZN Liga 1080p",
-					"info": "base-host",
+					"info": "base-host | MultiAudio",
                     			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/800px-DAZN_LaLiga_2023_Logo.svg.png",
                     			"url" :  "acestream://75251ba975132ec9a202806ba5bf606e87280c96",
 					"isHost": "true"
@@ -218,6 +218,258 @@
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=0950c37fe1ea817fc561c611ae943d58505f7a79",
 					"embed": "true"
                      		}, { 
+                	 		"name": "M+ LaLiga 4K",
+					"info": "base-host",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "acestream://8286183314d367940409b760bbf887f3fb923f60",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 4K",
+					"info": "base-agent",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "acestream://8286183314d367940409b760bbf887f3fb923f60",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ LaLiga 4K",
+					"info": "base-embed",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "acestream://8286183314d367940409b760bbf887f3fb923f60",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 4K",
+					"info": "get-host",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=8286183314d367940409b760bbf887f3fb923f60",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 4K",
+					"info": "get-agent",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=8286183314d367940409b760bbf887f3fb923f60",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ LaLiga 4K",
+					"info": "get-embed",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=8286183314d367940409b760bbf887f3fb923f60",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "base-host",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "base-agent",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "base-embed",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "get-host",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "get-agent",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "get-embed",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "base-host | MultiAudio",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "base-agent | MultiAudio",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "base-embed | MultiAudio",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "get-host | MultiAudio",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "get-agent | MultiAudio",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "get-embed | MultiAudio",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "base-host | MultiAudio 2",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "acestream://1969c27658d4c8333ab2c0670802546121a774a5",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "base-agent | MultiAudio 2",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "acestream://1969c27658d4c8333ab2c0670802546121a774a5",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "base-embed | MultiAudio 2",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "acestream://1969c27658d4c8333ab2c0670802546121a774a5",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "get-host | MultiAudio 2",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "get-agent | MultiAudio 2",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ LaLiga 1080p",
+					"info": "get-embed | MultiAudio 2",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 720p",
+					"info": "base-host",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "acestream://f031f5728b32f6089dda28edebe990cf198108d8",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 720p",
+					"info": "base-agent",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "acestream://f031f5728b32f6089dda28edebe990cf198108d8",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ LaLiga 720p",
+					"info": "base-embed",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "acestream://f031f5728b32f6089dda28edebe990cf198108d8",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 720p",
+					"info": "get-host",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=f031f5728b32f6089dda28edebe990cf198108d8",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 720p",
+					"info": "get-agent",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=f031f5728b32f6089dda28edebe990cf198108d8",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ LaLiga 720p",
+					"info": "get-embed",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=f031f5728b32f6089dda28edebe990cf198108d8",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 2 1080p",
+					"info": "base-host",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "acestream://26029f72a4ca831d09deefe89534818db1d105bc",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 2 1080p",
+					"info": "base-agent",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "acestream://26029f72a4ca831d09deefe89534818db1d105bc",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ LaLiga 2 1080p",
+					"info": "base-embed",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "acestream://26029f72a4ca831d09deefe89534818db1d105bc",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 2 1080p",
+					"info": "get-host",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=26029f72a4ca831d09deefe89534818db1d105bc",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 2 1080p",
+					"info": "get-agent",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=26029f72a4ca831d09deefe89534818db1d105bc",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ LaLiga 2 1080p",
+					"info": "get-embed",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=26029f72a4ca831d09deefe89534818db1d105bc",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 2 720p",
+					"info": "base-host",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "acestream://80126b240f3e4e004754fd8f8103e857ab2556a0",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 2 720p",
+					"info": "base-agent",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "acestream://80126b240f3e4e004754fd8f8103e857ab2556a0",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ LaLiga 2 720p",
+					"info": "base-embed",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "acestream://80126b240f3e4e004754fd8f8103e857ab2556a0",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 2 720p",
+					"info": "get-host",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=80126b240f3e4e004754fd8f8103e857ab2556a0",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ LaLiga 2 720p",
+					"info": "get-agent",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=80126b240f3e4e004754fd8f8103e857ab2556a0",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ LaLiga 2 720p",
+					"info": "get-embed",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1920px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=80126b240f3e4e004754fd8f8103e857ab2556a0",
+					"embed": "true"
+				}, { 
                 	 		"name": "***",
 					"info": "",
                     			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/1200px-Test-Logo.svg.png",
@@ -1253,86 +1505,10 @@
    		"info": "",
 		"stations": [{}]
 	}, {
-		"name": "TESTING 29/07",
+		"name": "TESTING soon...",
    		"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
    		"info": "",
-		"stations": 
-[
-		      { 
-                	 "name": "1.1 SD",
-                    	"image": "https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/champions-tour.png",
-                    	"url" :  "http://499816947258545232.ot0711.xyz:80/play/vi428027/hdFucGwknR/545232.ts",
-			"userAgent" : ""
-                     },  { 
-                	 "name": "2.1 HD",
-                    	"image": "https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/champions-tour.png",
-                    	"url" :  "http://499816947258545233.ot0711.xyz:80/play/vi428027/hdFucGwknR/545233.ts",
-			"userAgent" : ""
-                     },  { 
-                	 "name": "1.2 SD",
-                    	"image": "https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/champions-tour.png",
-                    	"url" :  "http://499816947258545232.ot0711.xyz:80/play/vi428027/hdFucGwknR/545232",
-			"userAgent" : ""
-                     },  { 
-                	 "name": "2.2 HD",
-                    	"image": "https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/champions-tour.png",
-                    	"url" :  "http://499816947258545233.ot0711.xyz:80/play/vi428027/hdFucGwknR/545233",
-			"userAgent" : ""
-                     }
-]
-	}, {
-		"name": "TESTING",
-   		"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
-   		"info": "",
-		"stations": 
-		[
-			{ 
-                	 "name": "DAZN Liga",
-			"info": "base-host",
-                    	"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
-                    	"url" :  "acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914",
-			"isHost" : "true"
-                     	}, 
-
-			{ 
-                	 "name": "DAZN Liga",
-			"info": "base-agent",
-                    	"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
-                    	"url" :  "acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914",
-			"userAgent" : ""
-                     	}, 
-
-			{ 
-                	 "name": "DAZN Liga",
-			"info": "base-embed",
-                    	"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
-                    	"url" :  "acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914",
-			"embed": "true"
-                     	}, 
-
-			{ 
-                	 "name": "DAZN Liga",
-			"info": "get-host",
-                    	"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
-                    	"url" :  "http://127.0.0.1:6878/ace/getstream?id=a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914",
-			"isHost" : "true"
-                     	},
-
-			{ 
-                	 "name": "DAZN Liga",
-			"info": "get-agent",
-                    	"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
-                    	"url" :  "http://127.0.0.1:6878/ace/getstream?id=a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914",
-			"userAgent" : ""
-                     	},
-
-			{ 
-                	 "name": "DAZN Liga",
-			"info": "get-embed",
-                    	"image": "https://www.mtp.es/wp-content/uploads/2019/03/testing-1200x900.jpg",
-                    	"url" :  "http://127.0.0.1:6878/ace/getstream?id=a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914",
-			"embed": "true"
-                     	}]
+		"stations": [{}]
 	}, {
 		"name": "TESTING soon...",
    		"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
