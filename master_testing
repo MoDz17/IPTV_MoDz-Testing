@@ -75,7 +75,7 @@
 					"userAgent" : ""
                      		}, { 
                 	 		"name": "DAZN Liga 1080p",
-					"info": "base-agent",
+					"info": "base-agent  | MultiAudio",
                     			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/800px-DAZN_LaLiga_2023_Logo.svg.png",
                     			"url" :  "acestream://75251ba975132ec9a202806ba5bf606e87280c96",
 					"userAgent" : ""
@@ -105,7 +105,7 @@
 					"embed": "true"
                      		}, { 
                 	 		"name": "DAZN Liga 1080p",
-					"info": "base-embed",
+					"info": "base-embed  | MultiAudio",
                     			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/800px-DAZN_LaLiga_2023_Logo.svg.png",
                     			"url" :  "acestream://75251ba975132ec9a202806ba5bf606e87280c96",
 					"embed": "true"
@@ -135,7 +135,7 @@
 					"isHost": "true"
                      		}, { 
                 	 		"name": "DAZN Liga 1080p",
-					"info": "get-host",
+					"info": "get-host  | MultiAudio",
                     			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/800px-DAZN_LaLiga_2023_Logo.svg.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=75251ba975132ec9a202806ba5bf606e87280c96",
 					"isHost": "true"
@@ -165,7 +165,7 @@
 					"userAgent" : ""
                      		}, { 
                 	 		"name": "DAZN Liga 1080p",
-					"info": "get-agent",
+					"info": "get-agent  | MultiAudio",
                     			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/800px-DAZN_LaLiga_2023_Logo.svg.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=75251ba975132ec9a202806ba5bf606e87280c96",
 					"userAgent" : ""
@@ -195,7 +195,7 @@
 					"embed": "true"
                      		}, { 
                 	 		"name": "DAZN Liga 1080p",
-					"info": "get-embed",
+					"info": "get-embed  | MultiAudio",
                     			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/800px-DAZN_LaLiga_2023_Logo.svg.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=75251ba975132ec9a202806ba5bf606e87280c96",
 					"embed": "true"
