@@ -27,9 +27,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 14/--/2023",
+             "name": "Ultm. versión 15/--/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 14/--/2023"
+            "info": "última versión actualizada el 15/--/2023"
 	}, {
 			"name": "Zona Acestream",
 			"image": "https://cdn6.aptoide.com/imgs/8/3/c/83cc431eb89915771fe774e9854fce29_fgraphic.png",
@@ -848,6 +848,125 @@
 					"embed": "true"
 				},
 
+
+
+
+
+				{ 
+                	 		"name": "Vamos 1080p",
+					"info": "base-host",
+                    			"image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
+                    			"url" :  "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Vamos 1080p",
+					"info": "base-agent",
+                    			"image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
+                    			"url" :  "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Vamos 1080p",
+					"info": "base-embed",
+                    			"image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
+                    			"url" :  "acestream://859bb6295b8d0f224224d3063d9db7cdeca03122",
+					"embed": "true"
+				}, { 
+                	 		"name": "Vamos 1080p",
+					"info": "get-host",
+                    			"image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Vamos 1080p",
+					"info": "get-agent",
+                    			"image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Vamos 1080p",
+					"info": "get-embed",
+                    			"image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122",
+					"embed": "true"
+				}, 
+
+
+				{ 
+                	 		"name": "Vamos 720p",
+					"info": "base-host",
+                    			"image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
+                    			"url" :  "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Vamos 720p",
+					"info": "base-agent",
+                    			"image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
+                    			"url" :  "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Vamos 720p",
+					"info": "base-embed",
+                    			"image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
+                    			"url" :  "acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0",
+					"embed": "true"
+				}, { 
+                	 		"name": "Vamos 720p",
+					"info": "get-host",
+                    			"image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=3bba7c95857c2502c7e03ced1a6a9b00eb567fa0",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Vamos 720p",
+					"info": "get-agent",
+                    			"image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=3bba7c95857c2502c7e03ced1a6a9b00eb567fa0",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Vamos 720p",
+					"info": "get-embed",
+                    			"image": "https://i.ibb.co/HHL04RY/logo-vamos.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=3bba7c95857c2502c7e03ced1a6a9b00eb567fa0",
+					"embed": "true"
+				},
+
+
+				{ 
+                	 		"name": "Ellas #V",
+					"info": "base-host",
+                    			"image": "https://i.ibb.co/ZhwwZZ7/logo-Vamos-Ellas.webp",
+                    			"url" :  "acestream://67654e63b5065cdaa6c8e8d41bb5428b42b32830",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Ellas #V",
+					"info": "base-agent",
+                    			"image": "https://i.ibb.co/ZhwwZZ7/logo-Vamos-Ellas.webp",
+                    			"url" :  "acestream://67654e63b5065cdaa6c8e8d41bb5428b42b32830",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Ellas #V",
+					"info": "base-embed",
+                    			"image": "https://i.ibb.co/ZhwwZZ7/logo-Vamos-Ellas.webp",
+                    			"url" :  "acestream://67654e63b5065cdaa6c8e8d41bb5428b42b32830",
+					"embed": "true"
+				}, { 
+                	 		"name": "Ellas #V",
+					"info": "get-host",
+                    			"image": "https://i.ibb.co/ZhwwZZ7/logo-Vamos-Ellas.webp",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=67654e63b5065cdaa6c8e8d41bb5428b42b32830",
+					"isHost": "true"
+				}, { 
+                	 		"name": "Ellas #V",
+					"info": "get-agent",
+                    			"image": "https://i.ibb.co/ZhwwZZ7/logo-Vamos-Ellas.webp",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=67654e63b5065cdaa6c8e8d41bb5428b42b32830",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "Ellas #V",
+					"info": "get-embed",
+                    			"image": "https://i.ibb.co/ZhwwZZ7/logo-Vamos-Ellas.webp",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=67654e63b5065cdaa6c8e8d41bb5428b42b32830",
+					"embed": "true"
+				},
 
 
 				{ 
