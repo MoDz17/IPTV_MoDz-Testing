@@ -27,9 +27,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 16/--/2023",
+             "name": "Ultm. versión 18/--/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 16/--/2023"
+            "info": "última versión actualizada el 18/--/2023"
 	}, {
 			"name": "Zona Acestream",
 			"image": "https://cdn6.aptoide.com/imgs/8/3/c/83cc431eb89915771fe774e9854fce29_fgraphic.png",
@@ -2608,5 +2608,41 @@
    		"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
    		"info": "",
 		"stations": [{}]
+	}, {
+             "name": "TIENDA - ADICTA",
+            "image": "https://i.ibb.co/nDZdjVS/Logo-Oficial-Shop-Finish.png",
+            "info": "",
+	    "stations": [
+		{
+			"name": "Web",
+			"info": "",
+		   	"image": "https://img.freepik.com/free-icon/internet_318-875883.jpg",    
+		  	"url" : "https://linktr.ee/tiendadictahd",
+		  	"embed": "true"
+		}, {
+			"name": "              By MoDz",
+		   	"image": "https://i.ibb.co/64mjMcF/MoDz.jpg",    
+		  	"url" : ""
+		}]
+	}, {
+             "name": "Zona Ace",
+            "image": "https://i.ibb.co/stSWhMQ/Logo-IPTV-oficial-testing.png",
+            "info": "",
+	    "stations": [{
+			"name": "@FutbolAdictosHD",
+		   	"image": "https://i.ibb.co/8MFrqt3/Twitter-logo.webp",    
+		  	"url" : "https://twitter.com/futboladictoshd",
+		  	"embed": "true"
+		}, {
+			"name": "Grupo Soporte",
+		   	"image": "https://i.ibb.co/rc9ds7x/jugones-pic-discord.png",    
+		  	"url" : "https://discord.gg/phVVJFSR4t",
+		  	"embed": "true"
+	  	}, {
+			"name": "@futboladictohd",
+		   	"image": "https://i.ibb.co/xYLFH0F/Insta-logo.png",    
+		  	"url" : "https://instagram.com/futboladictohd",
+		  	"embed": "true"
+		}]
 	}]
 }
