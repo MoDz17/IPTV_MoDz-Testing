@@ -1583,37 +1583,37 @@
 				{ 
                 	 		"name": "M+ Golf",
 					"info": "base-host",
-                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-golf-es.png",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Golf_por_Movistar_Plus%2B_2022_logo.svg/2560px-Golf_por_Movistar_Plus%2B_2022_logo.svg.png",
                     			"url" :  "acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122",
 					"isHost": "true"
 				}, { 
                 	 		"name": "M+ Golf",
 					"info": "base-agent",
-                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-golf-es.png",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Golf_por_Movistar_Plus%2B_2022_logo.svg/2560px-Golf_por_Movistar_Plus%2B_2022_logo.svg.png",
                     			"url" :  "acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "M+ Golf",
 					"info": "base-embed",
-                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-golf-es.png",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Golf_por_Movistar_Plus%2B_2022_logo.svg/2560px-Golf_por_Movistar_Plus%2B_2022_logo.svg.png",
                     			"url" :  "acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122",
 					"embed": "true"
 				}, { 
                 	 		"name": "M+ Golf",
 					"info": "get-host",
-                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-golf-es.png",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Golf_por_Movistar_Plus%2B_2022_logo.svg/2560px-Golf_por_Movistar_Plus%2B_2022_logo.svg.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122",
 					"isHost": "true"
 				}, { 
                 	 		"name": "M+ Golf",
 					"info": "get-agent",
-                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-golf-es.png",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Golf_por_Movistar_Plus%2B_2022_logo.svg/2560px-Golf_por_Movistar_Plus%2B_2022_logo.svg.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "M+ Golf",
 					"info": "get-embed",
-                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-golf-es.png",
+                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Golf_por_Movistar_Plus%2B_2022_logo.svg/2560px-Golf_por_Movistar_Plus%2B_2022_logo.svg.png",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122",
 					"embed": "true"
 				},
@@ -1622,37 +1622,37 @@
 				{ 
                 	 		"name": "M+ Golf 2",
 					"info": "base-host",
-                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-golf-2-es.png",
+                    			"image": "https://www.mundoplus.tv/wp-content/uploads/2023/03/golf2_movistarplus.jpg",
                     			"url" :  "acestream://9a4f3ae6563668b7709dac509dedc709441b3fd9",
 					"isHost": "true"
 				}, { 
                 	 		"name": "M+ Golf 2",
 					"info": "base-agent",
-                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-golf-2-es.png",
+                    			"image": "https://www.mundoplus.tv/wp-content/uploads/2023/03/golf2_movistarplus.jpg",
                     			"url" :  "acestream://9a4f3ae6563668b7709dac509dedc709441b3fd9",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "M+ Golf 2",
 					"info": "base-embed",
-                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-golf-2-es.png",
+                    			"image": "https://www.mundoplus.tv/wp-content/uploads/2023/03/golf2_movistarplus.jpg",
                     			"url" :  "acestream://9a4f3ae6563668b7709dac509dedc709441b3fd9",
 					"embed": "true"
 				}, { 
                 	 		"name": "M+ Golf 2",
 					"info": "get-host",
-                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-golf-2-es.png",
+                    			"image": "https://www.mundoplus.tv/wp-content/uploads/2023/03/golf2_movistarplus.jpg",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=9a4f3ae6563668b7709dac509dedc709441b3fd9",
 					"isHost": "true"
 				}, { 
                 	 		"name": "M+ Golf 2",
 					"info": "get-agent",
-                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-golf-2-es.png",
+                    			"image": "https://www.mundoplus.tv/wp-content/uploads/2023/03/golf2_movistarplus.jpg",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=9a4f3ae6563668b7709dac509dedc709441b3fd9",
 					"userAgent" : ""
 				}, { 
                 	 		"name": "M+ Golf 2",
 					"info": "get-embed",
-                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-golf-2-es.png",
+                    			"image": "https://www.mundoplus.tv/wp-content/uploads/2023/03/golf2_movistarplus.jpg",
                     			"url" :  "http://127.0.0.1:6878/ace/getstream?id=9a4f3ae6563668b7709dac509dedc709441b3fd9",
 					"embed": "true"
 				}
