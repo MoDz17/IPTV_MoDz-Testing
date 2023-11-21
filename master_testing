@@ -27,9 +27,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 19/--/2023",
+             "name": "Ultm. versión 21/--/2023",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 19/--/2023"
+            "info": "última versión actualizada el 21/--/2023"
 	}, {
 			"name": "Zona Acestream",
 			"image": "https://cdn6.aptoide.com/imgs/8/3/c/83cc431eb89915771fe774e9854fce29_fgraphic.png",
@@ -1307,11 +1307,355 @@
 
 
 				{ 
-                	 		"name": "***",
-					"info": "",
-                    			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/1200px-Test-Logo.svg.png",
-                    			"url" :  ""
-                     		}
+                	 		"name": "M+ Deportes 1080p",
+					"info": "base-host",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-es.png",
+                    			"url" :  "acestream://d00223931b1854163e24c5c22475015d7d45c112",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Deportes 1080p",
+					"info": "base-agent",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-es.png",
+                    			"url" :  "acestream://d00223931b1854163e24c5c22475015d7d45c112",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Deportes 1080p",
+					"info": "base-embed",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-es.png",
+                    			"url" :  "acestream://d00223931b1854163e24c5c22475015d7d45c112",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ Deportes 1080p",
+					"info": "get-host",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Deportes 1080p",
+					"info": "get-agent",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Deportes 1080p",
+					"info": "get-embed",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112",
+					"embed": "true"
+				},
+
+				{ 
+                	 		"name": "M+ Deportes 720p",
+					"info": "base-host",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-es.png",
+                    			"url" :  "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Deportes 720p",
+					"info": "base-agent",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-es.png",
+                    			"url" :  "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Deportes 720p",
+					"info": "base-embed",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-es.png",
+                    			"url" :  "acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ Deportes 720p",
+					"info": "get-host",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=e5fa927d9a017f4523fdb62774a0aec457985bfa",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Deportes 720p",
+					"info": "get-agent",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=e5fa927d9a017f4523fdb62774a0aec457985bfa",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Deportes 720p",
+					"info": "get-embed",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=e5fa927d9a017f4523fdb62774a0aec457985bfa",
+					"embed": "true"
+				},
+
+
+				{ 
+                	 		"name": "M+ Deportes 2",
+					"info": "base-host",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-2-es.png",
+                    			"url" :  "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Deportes 2",
+					"info": "base-agent",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-2-es.png",
+                    			"url" :  "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Deportes 2",
+					"info": "base-embed",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-2-es.png",
+                    			"url" :  "acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ Deportes 2",
+					"info": "get-host",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-2-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Deportes 2",
+					"info": "get-agent",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-2-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Deportes 2",
+					"info": "get-embed",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-2-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917",
+					"embed": "true"
+				},
+
+
+				{ 
+                	 		"name": "M+ Deportes 3",
+					"info": "base-host",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-3-es.png",
+                    			"url" :  "acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Deportes 3",
+					"info": "base-agent",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-3-es.png",
+                    			"url" :  "acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Deportes 3",
+					"info": "base-embed",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-3-es.png",
+                    			"url" :  "acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ Deportes 3",
+					"info": "get-host",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-3-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=aee0a595220e0f1c2fee725fd1dbc602d7152a9a",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Deportes 3",
+					"info": "get-agent",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-3-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=aee0a595220e0f1c2fee725fd1dbc602d7152a9a",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Deportes 3",
+					"info": "get-embed",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-3-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=aee0a595220e0f1c2fee725fd1dbc602d7152a9a",
+					"embed": "true"
+				},
+
+
+				{ 
+                	 		"name": "M+ Deportes 4",
+					"info": "base-host",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-4-es.png",
+                    			"url" :  "acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Deportes 4",
+					"info": "base-agent",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-4-es.png",
+                    			"url" :  "acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Deportes 4",
+					"info": "base-embed",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-4-es.png",
+                    			"url" :  "acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ Deportes 4",
+					"info": "get-host",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-4-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=42e83c337ece0af9ca7808859f84c7960e9cb6f5",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Deportes 4",
+					"info": "get-agent",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-4-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=42e83c337ece0af9ca7808859f84c7960e9cb6f5",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Deportes 4",
+					"info": "get-embed",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-4-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=42e83c337ece0af9ca7808859f84c7960e9cb6f5",
+					"embed": "true"
+				},
+
+
+				{ 
+                	 		"name": "M+ Deportes 5",
+					"info": "base-host",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-5-es.png",
+                    			"url" :  "acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Deportes 5",
+					"info": "base-agent",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-5-es.png",
+                    			"url" :  "acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Deportes 5",
+					"info": "base-embed",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-5-es.png",
+                    			"url" :  "acestream://b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ Deportes 5",
+					"info": "get-host",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-5-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Deportes 5",
+					"info": "get-agent",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-5-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Deportes 5",
+					"info": "get-embed",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-5-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3",
+					"embed": "true"
+				},
+
+
+				{ 
+                	 		"name": "M+ Deportes 6",
+					"info": "base-host",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-6-es.png",
+                    			"url" :  "acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Deportes 6",
+					"info": "base-agent",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-6-es.png",
+                    			"url" :  "acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Deportes 6",
+					"info": "base-embed",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-6-es.png",
+                    			"url" :  "acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ Deportes 6",
+					"info": "get-host",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-6-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=8587ed8ac36ac477e1d4176d3159a38bd154d4ce",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Deportes 6",
+					"info": "get-agent",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-6-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=8587ed8ac36ac477e1d4176d3159a38bd154d4ce",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Deportes 6",
+					"info": "get-embed",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-deportes-6-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=8587ed8ac36ac477e1d4176d3159a38bd154d4ce",
+					"embed": "true"
+				},
+
+
+
+
+				{ 
+                	 		"name": "M+ Golf",
+					"info": "base-host",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-golf-es.png",
+                    			"url" :  "acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Golf",
+					"info": "base-agent",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-golf-es.png",
+                    			"url" :  "acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Golf",
+					"info": "base-embed",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-golf-es.png",
+                    			"url" :  "acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ Golf",
+					"info": "get-host",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-golf-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Golf",
+					"info": "get-agent",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-golf-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Golf",
+					"info": "get-embed",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-golf-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122",
+					"embed": "true"
+				},
+
+
+				{ 
+                	 		"name": "M+ Golf 2",
+					"info": "base-host",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-golf-2-es.png",
+                    			"url" :  "acestream://9a4f3ae6563668b7709dac509dedc709441b3fd9",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Golf 2",
+					"info": "base-agent",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-golf-2-es.png",
+                    			"url" :  "acestream://9a4f3ae6563668b7709dac509dedc709441b3fd9",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Golf 2",
+					"info": "base-embed",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-golf-2-es.png",
+                    			"url" :  "acestream://9a4f3ae6563668b7709dac509dedc709441b3fd9",
+					"embed": "true"
+				}, { 
+                	 		"name": "M+ Golf 2",
+					"info": "get-host",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-golf-2-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=9a4f3ae6563668b7709dac509dedc709441b3fd9",
+					"isHost": "true"
+				}, { 
+                	 		"name": "M+ Golf 2",
+					"info": "get-agent",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-golf-2-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=9a4f3ae6563668b7709dac509dedc709441b3fd9",
+					"userAgent" : ""
+				}, { 
+                	 		"name": "M+ Golf 2",
+					"info": "get-embed",
+                    			"image": "https://www.lyngsat-logo.com/logo/tv/mm/mplus-golf-2-es.png",
+                    			"url" :  "http://127.0.0.1:6878/ace/getstream?id=9a4f3ae6563668b7709dac509dedc709441b3fd9",
+					"embed": "true"
+				}
 			]
 	}, {
 		"name": "TEST MAINS",
