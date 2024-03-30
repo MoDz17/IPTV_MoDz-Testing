@@ -27,9 +27,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 26/--/2024",
+             "name": "Ultm. versión 30/--/2024",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 26/--/2024"
+            "info": "última versión actualizada el 30/--/2024"
 	}, {
 			"name": "TESTING 27/02",
 		   "image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
@@ -53,55 +53,55 @@
             		"isHost":"true",
             		"online":"true"
 		}, {
-			"name": "DAZN F1",
-			"image": "https://i.ibb.co/MM0nfS1/DAZN-F1-Logo-Sin-Fondo.png",
-			"url":"http://51.158.36.81:18000/DAZN_F1/hls/playlist.m3u8",
+			"name": "RFEF1",
+			"image": "https://www.europasur.es/2022/07/26/deportes/algecirascf/logo-Primera-Federacion_1705340099_163160916_667x375.jpg",
+			"url":"http://42124376401595391.of1030ok.xyz:80/play/vi97535/gnJryy3U9t/595391.ts",
 			"userAgent" : ""
 		 }, {
-			"name": "DAZN1",
-			   "image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
-			   "url":"http://51.158.36.81:18000/DAZN_1/hls/playlist.m3u8",
+			"name": "RFEF1",
+			   "image": "https://www.europasur.es/2022/07/26/deportes/algecirascf/logo-Primera-Federacion_1705340099_163160916_667x375.jpg",
+			   "url":"http://42124376401595391.of1030ok.xyz:80/play/vi97535/gnJryy3U9t/595391.ts",
+			   "isHost":"true"
+		 }, {
+			"name": "RFEF2",
+			   "image": "https://www.europasur.es/2022/07/26/deportes/algecirascf/logo-Primera-Federacion_1705340099_163160916_667x375.jpg",
+			   "url":"http://42124376401595392.of1030ok.xyz:80/play/vi97535/gnJryy3U9t/595392.ts",
 			   "userAgent" : ""
 		 }, {
-			"name": "DAZN2",
-			   "image": "https://i.ibb.co/vhNCnrq/DAZN-2-Logo-Sin-Fondo.webp",
-			   "url":"http://51.158.36.81:18000/DAZN_2/hls/playlist.m3u8",
-			   "userAgent" : ""
+			"name": "RFEF2",
+			   "image": "https://www.europasur.es/2022/07/26/deportes/algecirascf/logo-Primera-Federacion_1705340099_163160916_667x375.jpg",
+			   "url":"http://42124376401595392.of1030ok.xyz:80/play/vi97535/gnJryy3U9t/595392.ts",
+			   "isHost":"true"
 		 }, {
 			"name": "DAZN3",
-			   "image": "https://i.ibb.co/p1Ry56w/DAZN-3-Logo-Sin-Fondo.png",
-			   "url":"http://51.158.36.81:18000/DAZN_3/hls/playlist.m3u8",
+			   "image": "https://www.europasur.es/2022/07/26/deportes/algecirascf/logo-Primera-Federacion_1705340099_163160916_667x375.jpg",
+			   "url":"http://42124376401595393.of1030ok.xyz:80/play/vi97535/gnJryy3U9t/595393.ts",
 			   "userAgent" : ""
 		 }, {
-			"name": "DAZN4",
-			   "image": "https://i.ibb.co/LQy2rM6/DAZN-4-Logo-Sin-Fondo.png",
-			   "url":"http://51.158.36.81:18000/DAZN_4/hls/playlist.m3u8",
-			   "userAgent" : ""
+			"name": "RFEF3",
+			"image": "https://www.europasur.es/2022/07/26/deportes/algecirascf/logo-Primera-Federacion_1705340099_163160916_667x375.jpg",
+			"url":"http://42124376401595393.of1030ok.xyz:80/play/vi97535/gnJryy3U9t/595393.ts",
+			"isHost":"true"
 		 }, {
-			"name": "SPORT TV 6",
-			"image": "https://uploads-eu-west-1.insided.com/meo-pt/attachment/f3f8b257-7ff1-453e-9e97-6dfec9118d9f_thumb.png",
-			"url":"http://213.13.16.138/shls/LIVE%24SPORTTV6_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END",
+			"name": "RFEF4",
+			"image": "https://www.europasur.es/2022/07/26/deportes/algecirascf/logo-Primera-Federacion_1705340099_163160916_667x375.jpg",
+			"url":"http://42124376401595394.of1030ok.xyz:80/play/vi97535/gnJryy3U9t/595394.ts",
 			"userAgent" : ""
 		 }, {
-			"name": "Padel [Android]",
-			"image": "https://cd1.taquilla.com/data/images/t/35/world-padel-tour.jpg",
-			"url":"https://laligatech-live-usp.akamaized.net:443/live/wpt01/wpt01.isml/hdntl=exp=1677414350~acl=%2F*~data=hdntl~hmac=50963ccc03ac209fc5f83400c56c282b9b53d14c35c7cd923ee8c020ec6f2696/wpt01-audio_track_0_0_spa=96000-video_track=2500000.m3u8",
+			"name": "RFEF4",
+			"image": "https://www.europasur.es/2022/07/26/deportes/algecirascf/logo-Primera-Federacion_1705340099_163160916_667x375.jpg",
+			"url":"http://42124376401595394.of1030ok.xyz:80/play/vi97535/gnJryy3U9t/595394.ts",
+			"isHost":"true"
+		 }, {
+			"name": "RFEF5",
+			"image": "https://www.europasur.es/2022/07/26/deportes/algecirascf/logo-Primera-Federacion_1705340099_163160916_667x375.jpg",
+			"url":"http://42124376401595395.of1030ok.xyz:80/play/vi97535/gnJryy3U9t/595395.ts",
 			"userAgent" : ""
 		 }, {
-			"name": "M. Liga",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png",
-			"url":"http://51.158.36.81:18000/M_LaLiga/hls/playlist.m3u8",
-			"userAgent" : ""
-		 }, {
-			"name": "M. Vamos",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vamos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Vamos_por_Movistar_Plus%2B_2022_logo.svg.png",
-			"url":"http://51.158.36.81:18000/M_Vamos/hls/playlist.m3u8",
-			"userAgent" : ""
-		 }, {
-			"name": "M. Deportes",
-			"image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
-			"url":"http://51.158.36.81:18000/M_Deportes/hls/playlist.m3u8",
-			"userAgent" : ""
+			"name": "RFEF5",
+			"image": "https://www.europasur.es/2022/07/26/deportes/algecirascf/logo-Primera-Federacion_1705340099_163160916_667x375.jpg",
+			"url":"http://42124376401595395.of1030ok.xyz:80/play/vi97535/gnJryy3U9t/595395.ts",
+			"isHost":"true"
 		 }, {
 			"name": "M. Deportes",
 			"image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
