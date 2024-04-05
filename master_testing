@@ -27,9 +27,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 03/--/2024",
+             "name": "Ultm. versión 05/--/2024",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 03/--/2024"
+            "info": "última versión actualizada el 05/--/2024"
 	}, {
 			"name": "1ª RFEF",
 		   "image": "https://www.estadiodeportivo.com/imagenes/5568c439-195a-42bc-8f03-b5224f8e89b3_1200x680.png",
@@ -184,56 +184,18 @@
 					"userAgent" : ""
 		 		}]
 	}, {
-		"name": "TESTING 01/03",
+		"name": "TESTING 05/04",
    		"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
    		"info": "",
 		"stations": [
 		{
-			"name": " A punt",
-			"image": "https://i.ibb.co/105c5Rn/logo-a-Punt.png",
-			"url":"https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/profile_0/chunklist_dvr.m3u8",
-			"userAgent" : ""
-		 }, {
-			"name": "Toros 1",
-			"image": "https://i.ibb.co/dprVzWm/logo-toro.png",
-			"url":"https://streaming012.gestec-video.com/hls/eltoro_bal.m3u8",
-			"userAgent" : ""
-		 }, {
-			"name": "Toros 2",
-			"image": "https://elcorreoweb.es/binrepository/676x450/0c50/675d400/none/10703/VSET/221027-aprende-de-toros-1_20938522_20221027124217.jpg",
-			"url":"https://media1.ultrik.com/live/torole1.m3u8?variant=0",
-			"userAgent" : ""
-		 }, {
-			"name": "Toros 2.1",
-			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe1Hb_2hzPBE_9l3bVg3PxT-tlC9EzjeGm9Q9Q4Vzwis12TaZ9QDUNDa4IyZL-E6Y3uMI&usqp=CAU",
-			"url":"https://media1.ultrik.com/live/torole1.m3u8",
-			"userAgent" : ""
-		 }, {
-			"name": "La Otra",
-			"image": "https://i.ibb.co/hKbFJvp/logo-la-Otra.png",
-			"url":"https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/bitrate_1.m3u8",
-			"userAgent" : ""
-		 }, {
-			"name": "Gol Play",
-			"image": "https://i.ibb.co/4ZhrbdF/Gol-Play-logo.png",
-			"url":"https://piratilla2.xyz/306803/hls/gol.m3u8",
-			"userAgent" : ""
-		 }, {
-			"name": "M. Deportes",
-			"image": "https://i.ibb.co/4NvkCVR/logo-deportes.png",
-		 	"url": "https://watchtvchh.xyz/channel/ch016098.php",
-			"userAgent" : ""
-	  	}, {
-			"name": "M. Deportes 2",
-			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/1280px-Movistar_Deportes_2.svg.png",
-		 	"url": "https://watchtvchh.xyz/channel/ch017001.php",
-             		"isHost": "true"  
-         	}, {
-			"name": "M. Golf",
-			"image": "https://i.ibb.co/sVPN8q6/logo-golf.png",
-			"url":"http://51.158.36.81:18000/M_Golf/hls/playlist.m3u8",
-			"userAgent" : ""
-		 }]
+			"name": "Canal 1",
+			"info": "abol-h5m4g | prf",
+			"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
+			"url" : "https://abolishstand.net/embed/h5m4gyv36vtc",
+			 "referer": "https://primefoot.ru/",
+	 		"isHost": "true"
+	   	}]
 	}, {
 		"name": "TESTING 08/03",
    		"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
