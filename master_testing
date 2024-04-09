@@ -133,10 +133,17 @@
 	 		"isHost": "true"
 	   	}, {
 			"name": "Canal 10",
-			"info": "abol-h5m4g | elixx",
+			"info": "abol-lbr3 | leet365",
 			"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
 			"url" : "https://abolishstand.net/embed/lbr3etluqsw",
-			 "referer": "https://elixx.xyz/",
+			 "referer": "https://leet365.cc/",
+	 		"isHost": "true"
+	   	}, {
+			"name": "Canal 11",
+			"info": "abol-lbr3 | macron",
+			"image": "https://i.ibb.co/nBZ6NvP/DAZN-1-Logo-Sin-Fondo.webp",
+			"url" : "https://abolishstand.net/embed/lbr3etluqsw",
+			 "referer": "https://macron.xyz/",
 	 		"isHost": "true"
 	   	}]
 	}, {
