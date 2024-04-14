@@ -27,9 +27,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 09/--/2024",
+             "name": "Ultm. versión 14/--/2024",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 09/--/2024"
+            "info": "última versión actualizada el 14/--/2024"
 	}, {
 			"name": "Zona IPTV",
 		  	"image": "https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",
@@ -37,11 +37,65 @@
 	   		"stations": [
 
 				{
-					"name": "---",
-					"info": "-",
-					"image": "",
-					"url":"",
-					"userAgent" : ""
+					"name": "IPTV digital",
+					"image": "https://cdn-icons-png.freepik.com/512/13746/13746953.png",
+					"url":"http://digital.nicesecrethotdigital.xyz:80/get.php?username=fe94126&password=K56Rdq8U8J5q&type=m3u_plus",
+					"info":"",
+					"import": "false"
+		 		}, {
+					"name": "IPTV fastream",
+					"image": "https://cdn-icons-png.freepik.com/512/13746/13746953.png",
+					"url":"http://fastream.xyz:8080/get.php?username=PLAYLIFE485166&password=gHAqfHJG52yu&type=m3u_plus",
+					"info":"300 conexiones",
+					"import": "false"
+		 		}, {
+					"name": "IPTV ott1",
+					"image": "https://cdn-icons-png.freepik.com/512/13746/13746953.png",
+					"url":"http://ott1.live:8080/get.php?username=GEOIPTVFHHHR45455646&password=pXuUuUEWJfTuFGRGTRGT&type=m3u",
+					"info":"300 conexiones",
+					"import": "false"
+		 		}, {
+					"name": "IPTV restreamus",
+					"image": "https://cdn-icons-png.freepik.com/512/13746/13746953.png",
+					"url":"http://restreamus.com/get.php?username=Cambiotodoplus&password=w84fLZEtDQud&type=m3u",
+					"info":"200 conexiones",
+					"import": "false"
+		 		}, {
+					"name": "IPTV 103.",
+					"image": "https://cdn-icons-png.freepik.com/512/13746/13746953.png",
+					"url":"http://103.127.209.247:8080/get.php?username=247@v2newG1&password=9OKqDp3L9S&type=m3u",
+					"info":"325 conexiones",
+					"import": "false"
+		 		}, {
+					"name": "IPTV iptvtree",
+					"image": "https://cdn-icons-png.freepik.com/512/13746/13746953.png",
+					"url":"http://iptvtree.net:8080/get.php?username=Kenann666&password=bpLTekVQBMD3yaWq&type=m3u",
+					"info":"300 conexiones",
+					"import": "false"
+		 		}, {
+					"name": "IPTV dns.p2",
+					"image": "https://cdn-icons-png.freepik.com/512/13746/13746953.png",
+					"url":"http://dns.p2.wtf/get.php?username=seRyb8hxqgven&password=Ryb8hxqgaH&type=m3u",
+					"info":"150 conexiones",
+					"import": "false"
+		 		}, {
+					"name": "IPTV atjyb",
+					"image": "https://cdn-icons-png.freepik.com/512/13746/13746953.png",
+					"url":"http://atjyb.nicgogo.xyz/get.php?username=phenixiptv-EX&password=45687kjdrSDEecdf@368&type=m3u_plus",
+					"info":"700 conexiones",
+					"import": "false"
+		 		}, {
+					"name": "IPTV amazingiptv",
+					"image": "https://cdn-icons-png.freepik.com/512/13746/13746953.png",
+					"url":"http://amazingiptv.live:8080/get.php?username=kaan159467kaan2634&password=Dacota123456&type=m3u",
+					"info":"200 conexiones",
+					"import": "false"
+		 		}, {
+					"name": "IPTV dns.client",
+					"image": "https://cdn-icons-png.freepik.com/512/13746/13746953.png",
+					"url":"http://dns.clientetv.tech/get.php?username=sourceuxusaX2&password=bRsCaNup9Cb3&type=m3u",
+					"info":"355 conexiones",
+					"import": "false"
 		 		}]
 	}, {
 			"name": "Zona Toro",
