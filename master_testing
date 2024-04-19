@@ -30,80 +30,9 @@
              "name": "Ultm. versión 19.3/--/2024",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
             "info": "última versión actualizada el 19.3/--/2024"
-	}, {
-			"name": "Zona IPTV",
-		  	"image": "https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",
-		   	"info": "",
-	   		"groups": [
+	}, 
 
-				{
-					"name": "Usar Wiseplay - Android",
-					"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieGS61EUyAb3jmph20TXbUwj9O8O7i1AKtFdcGpK_TfYSNNQcRPAKD_FJZT7OJLV2B_15NrrShW93Z_eKVTNSFmphRRKLU5PjkSbQM9c9AdnCw-dU_NH1-U95pdS5kui48sMAwbqcrMGpnjdJ4c-iigSL-kpjHkmNol5TxKFt70RPvg8SUK0RyqRP1FfW0/w666-h333/logo_wiseplay.png"
-		 		}, {
-					"name": "Usar Whatplay - iOS",
-					"image": "https://whatplay.es/wp-content/uploads/2018/10/testimonial-3.png"
-		 		}, {
-					"name": "Android 1",
-					"image": "https://cdn-icons-png.freepik.com/512/13746/13746953.png",
-					"url":"http://digital.nicesecrethotdigital.xyz:80/get.php?username=fe94126&password=K56Rdq8U8J5q&type=m3u_plus",
-					"info":"",
-					"import": false
-		 		}, {
-					"name": "Android 2",
-					"image": "https://cdn-icons-png.freepik.com/512/13746/13746953.png",
-					"url":"http://atjyb.nicgogo.xyz/get.php?username=phenixiptv-EX&password=45687kjdrSDEecdf@368&type=m3u_plus",
-					"info":"700 conexiones",
-					"import": false
-		 		}, {
-					"name": "Android/iOS 1",
-					"image": "https://cdn-icons-png.freepik.com/512/13746/13746953.png",
-					"url":"http://fastream.xyz:8080/get.php?username=PLAYLIFE485166&password=gHAqfHJG52yu&type=m3u_plus",
-					"info":"300 conexiones",
-					"import": false
-		 		}, {
-					"name": "Android/iOS 2",
-					"image": "https://cdn-icons-png.freepik.com/512/13746/13746953.png",
-					"url":"http://tv.fuxxionpro.online:8080/get.php?username=Mar12334GFGFSDrddklqkd123&password=paD7AGyaLj&type=m3u_plus",
-					"info":"500 conexiones",
-					"import": false
-		 		}, {
-					"name": "Android/iOS 3",
-					"image": "https://cdn-icons-png.freepik.com/512/13746/13746953.png",
-					"url":"http://restreamus.com/get.php?username=Cambiotodoplus&password=w84fLZEtDQud&type=m3u",
-					"info":"200 conexiones",
-					"import": false
-		 		}, {
-					"name": "Android/iOS 4",
-					"image": "https://cdn-icons-png.freepik.com/512/13746/13746953.png",
-					"url":"http://lobo-tv.live:8080/get.php?username=Megatvplus&password=pZNvewtBmjTfAe&type=m3u_plus",
-					"info":"350 conexiones",
-					"import": false
-		 		}, {
-					"name": "Android/iOS 5",
-					"image": "https://cdn-icons-png.freepik.com/512/13746/13746953.png",
-					"url":"http://emuligl.info:80/get.php?username=e7XfunEfVJWj&password=Uu7CfRFRbCzS&type=m3u_plus",
-					"info":"200 conexiones",
-					"import": false
-		 		}, {
-					"name": "Android/iOS 6",
-					"image": "https://cdn-icons-png.freepik.com/512/13746/13746953.png",
-					"url":"http://spaticplas.org:8080/get.php?username=Cambiotodoplus&password=w84fLZEtDQud&type=m3u_plus",
-					"info":"200 conexiones",
-					"import": false
-		 		}, {
-					"name": "Android/iOS 7",
-					"image": "https://cdn-icons-png.freepik.com/512/13746/13746953.png",
-					"url":"http://amazingiptv.live:8080/get.php?username=kaan159467kaan2634&password=Dacota123456&type=m3u",
-					"info":"200 conexiones",
-					"import": false
-		 		}, {
-					"name": "Android/iOS 8",
-					"image": "https://cdn-icons-png.freepik.com/512/13746/13746953.png",
-					"url":"http://dns.clientetv.tech/get.php?username=sourceuxusaX2&password=bRsCaNup9Cb3&type=m3u",
-					"info":"355 conexiones",
-					"import": false
-		 		}]
-	}, {
+{
 			"name": "Zona Toro",
 		   	"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw1janKijC_V68fTQ9lqdFT5ESYLfqjTQNSHF8LzBPftXvrBLGlpSaGZIYFp12Vp4zE064bbej0t-QXDD4rnLI8fdBHqo-CrGfqW6OJkzx1SbKg0weD9sdRoLfXz-Yr2kFv5VmSNdH_iY13Zc99bFn_Iwsr5-MB-4e4TnPXDoMHESGaSV7_INDKAo_XYyX/w617-h345/ToroLogoSec.PNG",
 		   	"info": "",
