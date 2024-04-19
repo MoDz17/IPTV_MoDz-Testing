@@ -27,9 +27,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 19.2/--/2024",
+             "name": "Ultm. versión 19.3/--/2024",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 19.2/--/2024"
+            "info": "última versión actualizada el 19.3/--/2024"
 	}, {
 			"name": "Zona IPTV",
 		  	"image": "https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",
@@ -38,14 +38,10 @@
 
 				{
 					"name": "Usar Wiseplay - Android",
-					"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieGS61EUyAb3jmph20TXbUwj9O8O7i1AKtFdcGpK_TfYSNNQcRPAKD_FJZT7OJLV2B_15NrrShW93Z_eKVTNSFmphRRKLU5PjkSbQM9c9AdnCw-dU_NH1-U95pdS5kui48sMAwbqcrMGpnjdJ4c-iigSL-kpjHkmNol5TxKFt70RPvg8SUK0RyqRP1FfW0/w666-h333/logo_wiseplay.png",
-					"url":"https://play.google.com/store/apps/details?id=com.wiseplay",
-					"embed": "true"
+					"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieGS61EUyAb3jmph20TXbUwj9O8O7i1AKtFdcGpK_TfYSNNQcRPAKD_FJZT7OJLV2B_15NrrShW93Z_eKVTNSFmphRRKLU5PjkSbQM9c9AdnCw-dU_NH1-U95pdS5kui48sMAwbqcrMGpnjdJ4c-iigSL-kpjHkmNol5TxKFt70RPvg8SUK0RyqRP1FfW0/w666-h333/logo_wiseplay.png"
 		 		}, {
 					"name": "Usar Whatplay - iOS",
-					"image": "https://whatplay.es/wp-content/uploads/2018/10/testimonial-3.png",
-					"url":"https://apps.apple.com/es/app/whatplay/id6443530611",
-					"embed": "true"
+					"image": "https://whatplay.es/wp-content/uploads/2018/10/testimonial-3.png"
 		 		}, {
 					"name": "Android 1",
 					"image": "https://cdn-icons-png.freepik.com/512/13746/13746953.png",
