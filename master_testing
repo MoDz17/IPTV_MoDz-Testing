@@ -27,9 +27,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 14.3/--/2024",
+             "name": "Ultm. versión 19/--/2024",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 14.3/--/2024"
+            "info": "última versión actualizada el 19/--/2024"
 	}, {
 			"name": "Zona IPTV",
 		  	"image": "https://img.freepik.com/vector-premium/insignia-iptv-icono-logotipo-ilustracion_100456-1447.jpg",
@@ -49,10 +49,10 @@
 					"info":"300 conexiones",
 					"import": false
 		 		}, {
-					"name": "---",
+					"name": "Android 2**",
 					"image": "https://cdn-icons-png.freepik.com/512/13746/13746953.png",
-					"url":"",
-					"info":"--- conexiones",
+					"url":"http://magmas5.com:8000/get.php?username=UK0NMK78C3&password=6XA15D0TF9&type=m3u",
+					"info":"200 conexiones",
 					"import": false
 		 		}, {
 					"name": "Android/iOS 2",
@@ -61,37 +61,37 @@
 					"info":"200 conexiones",
 					"import": false
 		 		}, {
-					"name": "---",
+					"name": "Android/iOS 3**",
 					"image": "https://cdn-icons-png.freepik.com/512/13746/13746953.png",
-					"url":"",
-					"info":"--- conexiones",
+					"url":"http://ultimeiptv.net/get.php?username=JQs2h1Xk3w&password=M1x0plpZTZ&type=m3u",
+					"info":"200 conexiones",
 					"import": false
 		 		}, {
-					"name": "---",
+					"name": "Android/iOS 4**",
 					"image": "https://cdn-icons-png.freepik.com/512/13746/13746953.png",
-					"url":"",
-					"info":"--- conexiones",
+					"url":"http://budtvlight.com:25461/get.php?username=jaime&password=3DbdkaKhwZEd&type=m3u",
+					"info":"300 conexiones",
 					"import": false
 		 		}, {
-					"name": "---",
+					"name": "Android/iOS 5**",
 					"image": "https://cdn-icons-png.freepik.com/512/13746/13746953.png",
-					"url":"",
-					"info":"--- conexiones",
+					"url":"http://iptvtree.net:8080/get.php?username=xplatinum2023&password=shpaF2mG6eKEqHJ3&type=m3u",
+					"info":"500 conexiones",
 					"import": false
 		 		}, {
-					"name": "Android 2",
+					"name": "Android 3",
 					"image": "https://cdn-icons-png.freepik.com/512/13746/13746953.png",
 					"url":"http://atjyb.nicgogo.xyz/get.php?username=phenixiptv-EX&password=45687kjdrSDEecdf@368&type=m3u_plus",
 					"info":"700 conexiones",
 					"import": false
 		 		}, {
-					"name": "Android/iOS 3",
+					"name": "Android/iOS 6",
 					"image": "https://cdn-icons-png.freepik.com/512/13746/13746953.png",
 					"url":"http://amazingiptv.live:8080/get.php?username=kaan159467kaan2634&password=Dacota123456&type=m3u",
 					"info":"200 conexiones",
 					"import": false
 		 		}, {
-					"name": "Android/iOS 4",
+					"name": "Android/iOS 7",
 					"image": "https://cdn-icons-png.freepik.com/512/13746/13746953.png",
 					"url":"http://dns.clientetv.tech/get.php?username=sourceuxusaX2&password=bRsCaNup9Cb3&type=m3u",
 					"info":"355 conexiones",
