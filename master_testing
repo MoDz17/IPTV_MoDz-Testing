@@ -241,13 +241,18 @@
 		[
 		
 			{
-			"name": "MundoToro",
+			"name": "",
 			"image": "https://assets.cyberghostvpn.com/photos/cg/media/f1-tv.png",
-			"url":"http://flylogi.top:8080/live/801663534859444000/1001663534859444/55943.ts",
+			"url":"",
+			"userAgent" : ""
+		 },
+
+		{
+			"name": "",
+			"image": "https://i.blogs.es/aca026/f1-tv-pro-f1-tv-access-formula-1-mexico-streaming/500_333.jpeg",
+			"url":"",
 			"userAgent" : ""
 		 }
-		
-		
 		]
 	}, {
 		"name": "Almacén [ROTOS]",
