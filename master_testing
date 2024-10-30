@@ -27,9 +27,9 @@
 	}, 
 	
 	{
-             "name": "Ultm. versión 29/--/2024",
+             "name": "Ultm. versión 30/--/2024",
             "image": "https://i.ibb.co/b3K5Q8G/logo-update-oficial.png",
-            "info": "última versión actualizada el 29/--/2024"
+            "info": "última versión actualizada el 30/--/2024"
 	}, 
 
 {
@@ -37,6 +37,25 @@
    		"image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/testing-logo-design-template-ce84480d61b3db9a8e1522a99875832f_screen.jpg?ts=1615794516",
    		"info": "",
 		"stations": [
+
+		{
+			"name": "M+",
+			"info": "",
+			"image": "https://i.ibb.co/6chtYYr/Logo-Movistar-Liga.webp",
+			"url" : "https://dinnerpotential.net/embed/6na79kddf",
+			 "referer": "https://tarjetarojaenvivo.lat/",
+	 		"isHost": "true"
+	   	},
+
+		{
+			"name": "DAZN",
+			"info": "",
+			"image": "https://i.ibb.co/pb8zb7J/Logo-DAZNLiga.png",
+			"url" : "https://dinnerpotential.net/embed/zbz7klq",
+			 "referer": "https://tarjetarojaenvivo.lat/",
+	 		"isHost": "true"
+	   	},
+
 		{
 			"name": "Canal 1",
 			"info": "abol-h5m4g | prf",
